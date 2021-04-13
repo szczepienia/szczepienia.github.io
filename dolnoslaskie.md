@@ -1,7 +1,7 @@
 ---
 layout: page
 title: dolnośląskie
-permalink: /dolnoslaskie/
+permalink: /dolnoslaskie
 ---
 
 # Wrocław

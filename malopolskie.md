@@ -1,7 +1,7 @@
 ---
 layout: page
 title: małopolskie
-permalink: /malopolskie/
+permalink: /malopolskie
 ---
 
 # Kraków

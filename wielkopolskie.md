@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wielkopolskie
-permalink: /wielkopolskie/
+permalink: /wielkopolskie
 ---
 
 # Poznań

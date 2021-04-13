@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lubelskie
-permalink: /lubelskie/
+permalink: /lubelskie
 ---
 
 # Lublin
