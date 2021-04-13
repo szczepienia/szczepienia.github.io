@@ -1,20 +1,20 @@
 #### pfizer
 ```
-2021-04-15 13:00:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-15 13:00:00 | Żelazna 1, Katowice
-2021-04-15 13:10:00 | Żelazna 1, Katowice
 2021-04-15 13:20:00 | Żelazna 1, Katowice
 2021-04-15 13:30:00 | Żelazna 1, Katowice
 2021-04-15 13:40:00 | Żelazna 1, Katowice
 2021-04-15 13:50:00 | Żelazna 1, Katowice
-2021-04-15 13:55:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-15 14:00:00 | Żelazna 1, Katowice
-2021-04-15 14:05:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-04-15 14:10:00 | Żelazna 1, Katowice
+2021-04-15 14:20:00 | Żelazna 1, Katowice
+2021-04-15 14:30:00 | Żelazna 1, Katowice
+2021-04-15 14:40:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-04-16 13:00:00 | Warszawska 52, Katowice
-2021-04-16 13:05:00 | Warszawska 52, Katowice
 2021-04-16 13:10:00 | Warszawska 52, Katowice
 2021-04-16 13:15:00 | Warszawska 52, Katowice
+2021-04-16 13:20:00 | Warszawska 52, Katowice
+2021-04-16 13:25:00 | Warszawska 52, Katowice
+2021-04-16 13:30:00 | Warszawska 52, Katowice
+2021-04-16 13:35:00 | Warszawska 52, Katowice
 ```
 
 #### moderna
@@ -32,8 +32,8 @@
 2021-04-16 11:30:00 | Żelazna 1, Katowice
 2021-04-16 11:40:00 | Żelazna 1, Katowice
 2021-04-16 11:45:00 | Żelazna 1, Katowice
-2021-04-16 11:50:00 | Żelazna 1, Katowice
-2021-04-16 12:15:00 | Żelazna 1, Katowice
+2021-04-17 09:35:00 | Tadeusza Kościuszki 229, Katowice
+2021-04-17 10:00:32 | Tadeusza Kościuszki 229, Katowice
 ```
 
 #### AstraZeneca
