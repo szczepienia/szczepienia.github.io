@@ -8,6 +8,8 @@ permalink: /slaskie
 
 {% include katowice.md %}
 
+---
+
 # Gliwice
 
 {% include gliwice.md %}

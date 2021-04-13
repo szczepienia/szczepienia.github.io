@@ -8,6 +8,17 @@ permalink: /malopolskie
 
 {% include krakow.md %}
 
+---
+
+# Tarnów 
+
+{% include tarnow.md %}
+
+---
+
 # Nowy Sącz
 
 {% include nowy_sacz.md %}
+
+---
+
