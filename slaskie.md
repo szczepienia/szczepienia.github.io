@@ -1,7 +1,7 @@
 ---
 layout: page
 title: śląskie
-permalink: /slaskie/
+permalink: /slaskie
 ---
 
 # Katowice
