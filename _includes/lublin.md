@@ -1,25 +1,26 @@
 #### pfizer
 ```
-2021-04-14 10:15:00 | Nałkowskich 114, Lublin
 2021-04-14 11:20:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
-2021-04-15 11:25:00 | Onyksowa 10, Lublin
-2021-04-15 11:30:00 | Onyksowa 10, Lublin
-2021-04-15 11:35:00 | Onyksowa 10, Lublin
-2021-04-15 11:40:00 | Onyksowa 10, Lublin
-2021-04-15 12:25:00 | Onyksowa 10, Lublin
-2021-04-15 12:30:00 | Onyksowa 10, Lublin
-2021-04-15 12:35:00 | Onyksowa 10, Lublin
-2021-04-15 12:40:00 | Onyksowa 10, Lublin
-2021-04-15 12:45:00 | Onyksowa 10, Lublin
-2021-04-16 10:30:00 | Zbigniewa Herberta 21, Lublin
-2021-04-19 09:30:00 | al. Kraśnicka 100, Lublin
+2021-04-14 11:40:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-14 11:50:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-15 11:10:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-15 11:20:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-15 11:30:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-15 11:40:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-19 09:30:00 | Zbigniewa Herberta 21, Lublin
 2021-04-19 09:35:00 | al. Kraśnicka 100, Lublin
 2021-04-19 09:40:00 | al. Kraśnicka 100, Lublin
+2021-04-19 09:45:00 | al. Kraśnicka 100, Lublin
+2021-04-19 09:50:00 | al. Kraśnicka 100, Lublin
+2021-04-19 09:55:00 | al. Kraśnicka 100, Lublin
+2021-04-19 10:00:00 | al. Kraśnicka 100, Lublin
+2021-04-19 10:05:00 | al. Kraśnicka 100, Lublin
 ```
 
 #### moderna
 ```
 2021-04-17 13:20:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
+2021-04-17 14:40:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 2021-04-17 14:55:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 2021-04-17 15:00:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 2021-04-17 15:05:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
@@ -33,11 +34,11 @@
 2021-04-17 15:45:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 2021-04-17 15:50:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 2021-04-17 15:55:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
-2021-04-17 16:05:00 | ul. Tadeusza Kościuszki 10B, Opole Lubelskie
 ```
 
 #### AstraZeneca
 ```
+2021-04-15 08:30:00 | Frezerów 3, Lublin
 2021-04-15 09:00:00 | Zdrowa 14, Lublin
 2021-04-15 09:00:00 | Kawaleryjska 10, Lublin
 2021-04-15 09:10:00 | Frezerów 3, Lublin
@@ -52,6 +53,5 @@
 2021-04-16 09:35:00 | Kompozytorów Polskich 8, LUBLIN
 2021-04-16 09:40:00 | Józefa Franczaka "LALKA" 43, Lublin
 2021-04-16 09:40:00 | Kompozytorów Polskich 8, LUBLIN
-2021-04-17 08:55:00 | Nałkowskich 114, Lublin
 ```
 
