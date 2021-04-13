@@ -6,6 +6,4 @@ permalink: /malopolskie
 
 # Kraków
 
-```
 {% include krakow.md %}
-```

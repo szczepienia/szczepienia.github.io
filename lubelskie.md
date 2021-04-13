@@ -6,6 +6,4 @@ permalink: /lubelskie
 
 # Lublin
 
-```
 {% include lublin.md %}
-```

@@ -6,6 +6,4 @@ permalink: /wielkopolskie
 
 # Poznań
 
-```
 {% include poznan.md %}
-```

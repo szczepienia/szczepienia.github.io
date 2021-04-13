@@ -6,6 +6,4 @@ permalink: /dolnoslaskie
 
 # Wrocław
 
-```
 {% include wroclaw.md %}
-```
