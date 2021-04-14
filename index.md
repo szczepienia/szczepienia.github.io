@@ -5,5 +5,5 @@
 layout: home
 ---
 
-<footer><p>Ostatnia aktualizacja: {{ site.time }}</p></footer>
+Ostatnia aktualizacja: {{ site.time }}
 

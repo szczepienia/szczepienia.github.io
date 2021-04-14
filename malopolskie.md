@@ -3,6 +3,7 @@ layout: page
 title: małopolskie
 permalink: /malopolskie
 ---
+Ostatnia aktualizacja: {{ site.time }}
 
 # Kraków
 

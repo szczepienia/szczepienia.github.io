@@ -3,6 +3,7 @@ layout: page
 title: śląskie
 permalink: /slaskie
 ---
+Ostatnia aktualizacja: {{ site.time }}
 
 # Katowice
 
