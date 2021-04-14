@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Ostatnia aktualizacja: {{ site.time }}
+Ostatnia aktualizacja: {{ site.time | date: "%Y-%m-%d %H:%M"}}
 
