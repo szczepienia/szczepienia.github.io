@@ -2,13 +2,12 @@
 ```
 2021-04-15 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-15 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-16 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-16 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-17 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-17 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-18 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-24 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 ```
 
 #### moderna
@@ -24,16 +23,13 @@
 
 #### AstraZeneca
 ```
-2021-04-15 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-16 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-16 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-17 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-17 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-18 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-21 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-22 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-23 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-24 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 ```
 
