@@ -5,6 +5,7 @@
 layout: home
 ---
 
+Terminy listowana na stronach są to jedne z wielu dostępnych, niestety wyszukiwanie na erejestracji pokazuje tylko pierwsze dostępne terminy danego dnia w danym ośrodku (czasami więcej, nie wiem jaki jest algorytm).
 
 Instrukcja jak dostać termin wylistowany na stronach:
 

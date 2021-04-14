@@ -1,55 +1,50 @@
 #### pfizer
 ```
-2021-04-14 13:30:00 | Jana Nielubowicza 5, Warszawa
-2021-04-16 14:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-16 14:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-17 14:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-18 13:45:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-18 14:00:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-18 14:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-18 14:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-20 13:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-20 13:45:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-20 14:00:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-21 14:00:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-21 14:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
+2021-04-21 11:20:00 | Spartańska 1, Warszawa
+2021-04-21 11:30:00 | Spartańska 1, Warszawa
+2021-04-21 11:40:00 | Spartańska 1, Warszawa
+2021-04-21 11:50:00 | Spartańska 1, Warszawa
+2021-04-21 12:10:00 | Spartańska 1, Warszawa
+2021-04-21 12:20:00 | Spartańska 1, Warszawa
+2021-04-21 12:30:00 | Spartańska 1, Warszawa
+2021-04-21 12:40:00 | Spartańska 1, Warszawa
+2021-04-21 12:50:00 | Spartańska 1, Warszawa
+2021-04-21 13:00:00 | Spartańska 1, Warszawa
+2021-04-21 13:10:00 | Spartańska 1, Warszawa
+2021-04-21 13:20:00 | Spartańska 1, Warszawa
+2021-04-21 13:30:00 | Spartańska 1, Warszawa
+2021-04-21 13:40:00 | Spartańska 1, Warszawa
+2021-04-21 13:50:00 | Spartańska 1, Warszawa
 ```
 
 #### moderna
 ```
-2021-04-15 14:00:00 | Szaserów 128, Warszawa
-2021-04-16 13:30:00 | Szaserów 128, Warszawa
-2021-04-16 13:45:00 | Szaserów 128, Warszawa
-2021-04-16 14:00:00 | Szaserów 128, Warszawa
-2021-04-16 14:15:00 | Szaserów 128, Warszawa
-2021-04-16 14:30:00 | Szaserów 128, Warszawa
-2021-04-16 14:45:00 | Szaserów 128, Warszawa
-2021-04-16 15:00:00 | Szaserów 128, Warszawa
-2021-04-18 18:20:00 | Świętokrzyska 18, Warszawa
-2021-04-19 12:50:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 12:55:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 14:00:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 14:05:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 14:10:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 14:15:00 | ul. Jana Cybisa 4, Warszawa
+2021-04-19 11:15:00 | Szaserów 128, Warszawa
+2021-04-19 11:30:00 | Szaserów 128, Warszawa
+2021-04-20 10:00:00 | Szaserów 128, Warszawa
+2021-04-20 10:15:00 | Szaserów 128, Warszawa
+2021-04-20 10:30:00 | Szaserów 128, Warszawa
+2021-04-20 10:45:00 | Szaserów 128, Warszawa
+2021-04-20 11:00:00 | Szaserów 128, Warszawa
+2021-04-20 11:15:00 | Szaserów 128, Warszawa
 ```
 
 #### AstraZeneca
 ```
-2021-04-17 11:30:00 | Madalińskiego 13, Warszawa
-2021-04-18 10:50:00 | Spartańska 1, Warszawa
-2021-04-18 11:15:00 | Spartańska 1, Warszawa
-2021-04-18 11:20:00 | Spartańska 1, Warszawa
-2021-04-18 11:20:00 | Madalińskiego 13, Warszawa
+2021-04-15 10:15:00 | Wołoska 137, Warszawa
+2021-04-15 10:30:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 10:45:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 11:00:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 11:15:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 11:30:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 11:45:00 | Józefa Mehoffera 29, Warszawa
+2021-04-15 12:00:00 | Józefa Mehoffera 29, Warszawa
+2021-04-18 10:45:00 | Spartańska 1, Warszawa
 2021-04-18 11:25:00 | Spartańska 1, Warszawa
-2021-04-18 11:30:00 | Madalińskiego 13, Warszawa
 2021-04-18 11:30:00 | Spartańska 1, Warszawa
-2021-04-19 10:45:00 | Spartańska 1, Warszawa
+2021-04-18 11:35:00 | Spartańska 1, Warszawa
 2021-04-19 10:50:00 | Spartańska 1, Warszawa
 2021-04-19 10:55:00 | Spartańska 1, Warszawa
 2021-04-19 11:00:00 | Spartańska 1, Warszawa
-2021-04-19 11:05:00 | Spartańska 1, Warszawa
-2021-04-19 11:10:00 | Spartańska 1, Warszawa
-2021-04-19 11:15:00 | Spartańska 1, Warszawa
 ```
 
