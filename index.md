@@ -29,12 +29,3 @@ Ostatnia aktualizacja: {{ site.time | date: "%Y-%m-%d %H:%M"}}
 
 Brakuje twojego województwa?
 Dopisz go w komentarzach:
-
-<script src="https://utteranc.es/client.js"
-        repo="szczepienia/szczepienia.github.io"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
