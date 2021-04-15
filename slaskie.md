@@ -13,3 +13,9 @@ permalink: /slaskie
 # Gliwice
 
 {% include gliwice.md %}
+
+---
+
+# Czechowice-Dziedzice 
+
+{% include czechowice_dzedzice.md %}
