@@ -1,18 +1,20 @@
 #### pfizer
 ```
-2021-04-29 09:30:00 | Szpitalna 3, Miechów
-2021-04-30 09:30:00 | Szpitalna 3, Miechów
-2021-05-04 09:30:00 | Szpitalna 3, Miechów
-2021-05-05 09:30:00 | Szpitalna 3, Miechów
 2021-05-06 09:15:00 | Szpitalna 3, Miechów
-2021-05-06 09:30:00 | Szpitalna 3, Miechów
-2021-05-06 11:50:00 | ul. Królewska 49, Maszków
-2021-05-07 09:15:00 | Szpitalna 3, Miechów
-2021-05-13 09:15:00 | Szpitalna 3, Miechów
-2021-05-14 09:15:00 | Szpitalna 3, Miechów
-2021-05-18 09:15:00 | Szpitalna 3, Miechów
-2021-05-19 09:15:00 | Szpitalna 3, Miechów
-2021-05-20 09:15:00 | Szpitalna 3, Miechów
+2021-05-25 08:45:00 | Szpitalna 3, Miechów
+2021-05-25 09:00:00 | Szpitalna 3, Miechów
+2021-05-26 08:45:00 | Szpitalna 3, Miechów
+2021-05-26 09:00:00 | Szpitalna 3, Miechów
+2021-05-27 08:00:00 | Szpitalna 3, Miechów
+2021-05-27 08:15:00 | Szpitalna 3, Miechów
+2021-05-27 08:30:00 | Mędrzechów 325, Mędrzechów
+2021-05-27 08:30:00 | Szpitalna 3, Miechów
+2021-05-27 08:45:00 | Szpitalna 3, Miechów
+2021-05-27 09:00:00 | Szpitalna 3, Miechów
+2021-05-28 08:00:00 | Szpitalna 3, Miechów
+2021-05-28 08:15:00 | Szpitalna 3, Miechów
+2021-05-28 08:30:00 | Szpitalna 3, Miechów
+2021-05-28 08:45:00 | Szpitalna 3, Miechów
 ```
 
 #### moderna

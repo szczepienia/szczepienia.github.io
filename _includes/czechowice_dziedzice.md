@@ -1,8 +1,5 @@
 #### pfizer
 ```
-2021-04-30 16:10:00 | Bema 4, Racibórz
-2021-04-30 16:15:00 | Bema 4, Racibórz
-2021-04-30 16:20:00 | Bema 4, Racibórz
 2021-04-30 16:25:00 | Bema 4, Racibórz
 2021-04-30 16:40:00 | Bema 4, Racibórz
 2021-04-30 16:45:00 | Bema 4, Racibórz
@@ -15,6 +12,9 @@
 2021-04-30 17:20:00 | Bema 4, Racibórz
 2021-04-30 17:25:00 | Bema 4, Racibórz
 2021-04-30 17:30:00 | Bema 4, Racibórz
+2021-04-30 17:35:00 | Bema 4, Racibórz
+2021-04-30 17:40:00 | Bema 4, Racibórz
+2021-04-30 17:45:00 | Bema 4, Racibórz
 ```
 
 #### moderna

@@ -1,18 +1,18 @@
 #### pfizer
 ```
-2021-05-22 15:10:00 | Stefana Batorego  17-19, Toruń
-2021-05-22 15:15:00 | Stefana Batorego  17-19, Toruń
-2021-05-22 15:20:00 | Stefana Batorego  17-19, Toruń
-2021-05-22 15:25:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 14:45:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 14:50:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 14:55:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:00:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:05:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:10:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:15:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:20:00 | Stefana Batorego  17-19, Toruń
-2021-05-25 15:25:00 | Stefana Batorego  17-19, Toruń
+2021-05-18 08:15:00 | WIESŁAWA ADAMCZYKA  4, KONECK
+2021-05-29 08:10:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:15:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:20:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:25:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:30:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:35:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:40:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:45:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:50:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 08:55:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 09:00:00 | Stefana Batorego  17-19, Toruń
+2021-05-29 09:05:00 | Stefana Batorego  17-19, Toruń
 ```
 
 #### moderna
@@ -27,8 +27,6 @@
 
 #### AstraZeneca
 ```
-2021-05-10 12:00:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-10 12:05:00 | Kurpińskiego 5, Bydgoszcz
 2021-05-10 12:10:00 | Kurpińskiego 5, Bydgoszcz
 2021-05-10 12:15:00 | Kurpińskiego 5, Bydgoszcz
 2021-05-10 12:20:00 | Kurpińskiego 5, Bydgoszcz
@@ -42,5 +40,7 @@
 2021-05-10 13:05:00 | Kurpińskiego 5, Bydgoszcz
 2021-05-10 13:10:00 | Kurpińskiego 5, Bydgoszcz
 2021-05-10 13:15:00 | Kurpińskiego 5, Bydgoszcz
+2021-05-10 13:20:00 | Kurpińskiego 5, Bydgoszcz
+2021-05-10 13:25:00 | Kurpińskiego 5, Bydgoszcz
 ```
 
