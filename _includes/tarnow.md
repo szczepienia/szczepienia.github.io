@@ -1,6 +1,7 @@
 #### pfizer
 ```
 2021-05-06 09:15:00 | Szpitalna 3, Miechów
+2021-05-06 11:50:00 | ul. Królewska 49, Maszków
 2021-05-25 08:45:00 | Szpitalna 3, Miechów
 2021-05-25 09:00:00 | Szpitalna 3, Miechów
 2021-05-26 08:45:00 | Szpitalna 3, Miechów
@@ -14,7 +15,6 @@
 2021-05-28 08:00:00 | Szpitalna 3, Miechów
 2021-05-28 08:15:00 | Szpitalna 3, Miechów
 2021-05-28 08:30:00 | Szpitalna 3, Miechów
-2021-05-28 08:45:00 | Szpitalna 3, Miechów
 ```
 
 #### moderna

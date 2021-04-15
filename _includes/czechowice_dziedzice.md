@@ -1,10 +1,6 @@
 #### pfizer
 ```
-2021-04-30 16:25:00 | Bema 4, Racibórz
 2021-04-30 16:40:00 | Bema 4, Racibórz
-2021-04-30 16:45:00 | Bema 4, Racibórz
-2021-04-30 16:50:00 | Bema 4, Racibórz
-2021-04-30 16:55:00 | Bema 4, Racibórz
 2021-04-30 17:00:00 | Bema 4, Racibórz
 2021-04-30 17:05:00 | Bema 4, Racibórz
 2021-04-30 17:10:00 | Bema 4, Racibórz
@@ -15,10 +11,15 @@
 2021-04-30 17:35:00 | Bema 4, Racibórz
 2021-04-30 17:40:00 | Bema 4, Racibórz
 2021-04-30 17:45:00 | Bema 4, Racibórz
+2021-04-30 18:15:00 | Klasztorna 9b, Kuźnia Raciborska
+2021-04-30 18:30:00 | Klasztorna 9b, Kuźnia Raciborska
+2021-04-30 18:45:00 | Klasztorna 9b, Kuźnia Raciborska
+2021-04-30 19:00:00 | Klasztorna 9b, Kuźnia Raciborska
 ```
 
 #### moderna
 ```
+2021-04-18 11:00:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-04-30 11:40:00 | Raciborska  28, Katowice
 2021-04-30 11:50:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-04-30 11:50:00 | Raciborska  28, Katowice
