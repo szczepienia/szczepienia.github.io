@@ -1,20 +1,20 @@
 #### pfizer
 ```
-2021-04-20 10:40:00 | al. Kraśnicka 100, Lublin
-2021-04-20 10:45:00 | al. Kraśnicka 100, Lublin
-2021-04-20 10:50:00 | al. Kraśnicka 100, Lublin
-2021-04-20 10:55:00 | al. Kraśnicka 100, Lublin
-2021-04-20 11:00:00 | al. Kraśnicka 100, Lublin
-2021-04-20 11:00:00 | Abramowicka 2, Lublin
-2021-04-20 11:00:00 | Mariana Langiewicza 6/A, Lublin
-2021-04-20 11:05:00 | al. Kraśnicka 100, Lublin
-2021-04-20 11:10:00 | Abramowicka 2, Lublin
-2021-04-20 11:10:00 | al. Kraśnicka 100, Lublin
-2021-04-21 10:20:00 | Mariana Langiewicza 6/A, Lublin
-2021-04-21 10:30:00 | Mariana Langiewicza 6/A, Lublin
-2021-04-21 10:40:00 | Mariana Langiewicza 6/A, Lublin
-2021-04-21 10:50:00 | Mariana Langiewicza 6/A, Lublin
-2021-04-21 11:00:00 | Mariana Langiewicza 6/A, Lublin
+2021-04-23 14:35:00 | Mickiewicza 2, Sławatycze
+2021-04-23 14:40:00 | Mickiewicza 2, Sławatycze
+2021-04-23 14:45:00 | Mickiewicza 2, Sławatycze
+2021-04-23 14:50:00 | Mickiewicza 2, Sławatycze
+2021-04-23 14:55:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:05:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:10:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:20:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:25:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:30:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:35:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:40:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:45:00 | Mickiewicza 2, Sławatycze
+2021-04-23 15:50:00 | Mickiewicza 2, Sławatycze
+2021-04-30 14:05:00 | Mickiewicza 2, Sławatycze
 ```
 
 #### moderna
@@ -38,20 +38,10 @@
 
 #### AstraZeneca
 ```
-2021-04-16 09:30:00 | Grenadierów 3, Lublin
-2021-04-16 10:30:00 | Józefa Franczaka "LALKA" 43, Lublin
-2021-04-16 10:40:00 | Okopowa 3, Lublin
-2021-04-16 10:50:00 | Marii Koryznowej 2B, Lublin
-2021-04-17 10:20:00 | Grenadierów 3, Lublin
-2021-04-17 10:45:00 | Onyksowa 10, Lublin
-2021-04-19 10:25:00 | al. Kraśnicka 100, Lublin
-2021-04-19 10:30:00 | Al. Racławickie 23, Lublin
-2021-04-19 10:30:00 | al. Kraśnicka 100, Lublin
-2021-04-19 10:35:00 | al. Kraśnicka 100, Lublin
-2021-04-19 10:40:00 | al. Kraśnicka 100, Lublin
-2021-04-19 10:45:00 | al. Kraśnicka 100, Lublin
-2021-04-19 10:45:00 | Al. Racławickie 23, Lublin
-2021-04-19 10:50:00 | Marii Koryznowej 2B, Lublin
-2021-04-19 10:50:00 | al. Kraśnicka 100, Lublin
+2021-05-04 11:00:00 | Kosynierów 17, Świdnik
+```
+
+#### Johnson and Johnson
+```
 ```
 

@@ -39,10 +39,15 @@
 2021-04-18 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-19 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-20 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-21 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-21 08:15:00 | ul. Lwowska 60,      Rzeszów
 2021-04-22 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-22 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
+```
+
+#### Johnson and Johnson
+```
 ```
 
