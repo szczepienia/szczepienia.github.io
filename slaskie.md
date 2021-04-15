@@ -18,4 +18,4 @@ permalink: /slaskie
 
 # Czechowice-Dziedzice 
 
-{% include czechowice_dzedzice.md %}
+{% include czechowice_dziedzice.md %}
