@@ -1,47 +1,40 @@
 #### pfizer
 ```
-2021-04-20 11:15:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:20:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:25:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:30:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:35:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:40:00 | Piotra Skargi 10, Grójec
-2021-04-20 11:45:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:15:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:20:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:25:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:30:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:35:00 | Piotra Skargi 10, Grójec
-2021-04-21 11:40:00 | Piotra Skargi 10, Grójec
-2021-04-21 19:35:00 | Makolągwy 20B, Warszawa
-2021-04-22 11:10:00 | Piotra Skargi 10, Grójec
+2021-05-02 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-02 10:20:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-03 10:10:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-07 10:20:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-08 10:20:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-09 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-10 10:10:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-10 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-11 10:10:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-11 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-12 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-13 10:10:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-13 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
 ```
 
 #### moderna
 ```
-2021-04-17 09:00:00 | Błońska 62, Leszno
 ```
 
 #### AstraZeneca
 ```
-2021-04-16 08:25:00 | REYMONTA 36A, ŻELECHÓW
-2021-04-16 17:00:00 | Sandomierska 5/7, Warszawa
-2021-04-17 09:35:00 | ul. 1000-lecia Państwa Polskiego 8, Wyśmierzyce
-2021-04-17 15:30:00 | Szkolna 6, Milanówek
-2021-04-17 15:45:00 | Szkolna 6, Milanówek
-2021-04-17 15:45:00 | Madalińskiego 13, Warszawa
-2021-04-17 16:00:00 | Szkolna 6, Milanówek
-2021-04-17 16:15:00 | Szkolna 6, Milanówek
-2021-04-18 10:25:00 | Stara Błotnica 9, Stara Błotnica
-2021-04-18 11:30:00 | Stara Błotnica 9, Stara Błotnica
-2021-04-18 11:35:00 | Stara Błotnica 9, Stara Błotnica
-2021-04-18 15:30:00 | Madalińskiego 13, Warszawa
-2021-04-18 15:40:00 | Madalińskiego 13, Warszawa
-2021-04-18 15:45:00 | Madalińskiego 13, Warszawa
-2021-04-19 19:10:00 | ul. 3 Maja 57, Grodzisk Mazowiecki
-```
-
-#### Johnson and Johnson
-```
+2021-05-04 10:00:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:05:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:10:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:15:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:20:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:25:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:30:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-04 10:35:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-05 10:20:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-05 10:40:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-06 09:50:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-06 10:00:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-06 10:20:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-06 10:40:00 | UL. TOCHTERMANA  1, RADOM
+2021-05-06 10:50:00 | UL. TOCHTERMANA  1, RADOM
 ```
 
