@@ -1,28 +1,57 @@
 #### pfizer
 ```
-2021-04-21 18:45:00 | Rzgowska 50A, Łódź
+2021-04-21 10:40:00 | Moniuszki 4a, Łódź
+2021-04-21 10:45:00 | Moniuszki 4a, Łódź
+2021-04-21 10:50:00 | Moniuszki 4a, Łódź
+2021-04-21 10:55:00 | Moniuszki 4a, Łódź
+2021-04-21 11:05:00 | Moniuszki 4a, Łódź
+2021-04-21 11:15:00 | Moniuszki 4a, Łódź
+2021-04-21 11:20:00 | Moniuszki 4a, Łódź
+2021-04-21 11:25:00 | Moniuszki 4a, Łódź
+2021-04-21 11:30:00 | Moniuszki 4a, Łódź
+2021-04-21 11:35:00 | Moniuszki 4a, Łódź
+2021-04-21 11:40:00 | Moniuszki 4a, Łódź
+2021-04-21 11:45:00 | Moniuszki 4a, Łódź
+2021-04-21 11:50:00 | Moniuszki 4a, Łódź
+2021-04-21 11:55:00 | Moniuszki 4a, Łódź
+2021-04-21 12:00:00 | Moniuszki 4a, Łódź
 ```
 
 #### moderna
 ```
+2021-04-15 12:30:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-15 12:45:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-17 11:00:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-17 11:45:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-17 12:15:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-17 12:45:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 09:15:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 09:45:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 10:15:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 10:30:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 10:45:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 11:00:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 11:15:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 11:30:00 | ul. Lumumby 14, ŁÓDŹ
+2021-04-18 11:45:00 | ul. Lumumby 14, ŁÓDŹ
 ```
 
 #### AstraZeneca
 ```
-2021-04-15 09:15:00 | Kochanowskiego 14a, Łódź
-2021-04-16 10:10:00 | Braterska 25, Łódź
-2021-04-16 13:00:00 | Rzgowska 281/289, Łódź
-2021-04-16 13:45:00 | Rzgowska 281/289, Łódź
-2021-04-18 11:40:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 11:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 12:40:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 12:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 13:10:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 13:20:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 13:30:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 13:40:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 13:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-18 14:00:00 | gen. Ignacego Prądzyńskiego 91, Łódź
-2021-04-19 12:50:00 | Braterska 25, Łódź
+2021-04-19 14:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
+2021-04-19 15:45:00 | Rzgowska 281/289, Łódź
+2021-04-19 17:15:00 | Rzgowska 281/289, Łódź
+2021-04-19 17:45:00 | Rzgowska 281/289, Łódź
+2021-04-19 18:00:00 | Rzgowska 281/289, Łódź
+2021-04-19 18:15:00 | Rzgowska 281/289, Łódź
+2021-04-19 20:00:00 | Stanisława Dubois 114/116, Łódź
+2021-04-20 11:45:00 | Kosynierów Gdyńskich 61, Łódź
+2021-04-20 13:15:00 | Ogniskowa 16/8, Łódź
+2021-04-20 13:25:00 | Ogniskowa 16/8, Łódź
+2021-04-20 13:50:00 | Ogniskowa 16/8, Łódź
+2021-04-20 14:15:00 | Ogniskowa 16/8, Łódź
+2021-04-20 14:35:00 | Ogniskowa 16/8, Łódź
+2021-04-20 15:00:00 | Ogniskowa 16/8, Łódź
+2021-04-20 15:25:00 | Ogniskowa 16/8, Łódź
 ```
 
