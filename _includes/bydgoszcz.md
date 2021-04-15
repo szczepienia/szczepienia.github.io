@@ -1,14 +1,24 @@
 #### pfizer
 ```
-2021-05-04 12:40:00 | KOŚCIUSZKI 8, ROGOWO
-2021-05-13 17:00:00 | Stefana Batorego  17-19, Toruń
+2021-05-22 15:10:00 | Stefana Batorego  17-19, Toruń
+2021-05-22 15:15:00 | Stefana Batorego  17-19, Toruń
+2021-05-22 15:20:00 | Stefana Batorego  17-19, Toruń
+2021-05-22 15:25:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 14:45:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 14:50:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 14:55:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:00:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:05:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:10:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:15:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:20:00 | Stefana Batorego  17-19, Toruń
+2021-05-25 15:25:00 | Stefana Batorego  17-19, Toruń
 ```
 
 #### moderna
 ```
 2021-04-18 18:15:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek
 2021-04-18 18:30:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek
-2021-04-19 11:00:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek
 2021-04-19 18:00:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek
 2021-04-19 18:15:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek
 2021-04-20 18:00:00 | UL. WOJSKA POLSKIEGO  5, Ciechocinek

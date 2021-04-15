@@ -1,18 +1,18 @@
 #### pfizer
 ```
 2021-04-29 09:30:00 | Szpitalna 3, Miechów
-2021-04-29 09:45:00 | Szpitalna 3, Miechów
 2021-04-30 09:30:00 | Szpitalna 3, Miechów
 2021-05-04 09:30:00 | Szpitalna 3, Miechów
-2021-05-05 09:15:00 | Szpitalna 3, Miechów
 2021-05-05 09:30:00 | Szpitalna 3, Miechów
 2021-05-06 09:15:00 | Szpitalna 3, Miechów
 2021-05-06 09:30:00 | Szpitalna 3, Miechów
 2021-05-06 11:50:00 | ul. Królewska 49, Maszków
 2021-05-07 09:15:00 | Szpitalna 3, Miechów
-2021-05-07 09:30:00 | Szpitalna 3, Miechów
 2021-05-13 09:15:00 | Szpitalna 3, Miechów
-2021-05-13 09:30:00 | Szpitalna 3, Miechów
+2021-05-14 09:15:00 | Szpitalna 3, Miechów
+2021-05-18 09:15:00 | Szpitalna 3, Miechów
+2021-05-19 09:15:00 | Szpitalna 3, Miechów
+2021-05-20 09:15:00 | Szpitalna 3, Miechów
 ```
 
 #### moderna
@@ -36,20 +36,6 @@
 
 #### AstraZeneca
 ```
-2021-04-17 10:30:00 | Łapanów 186, Łapanów
-2021-04-20 09:30:00 | Borzęcin 87b, Borzęcin
-2021-04-20 11:50:00 | Borzęcin 87b, Borzęcin
-2021-04-21 13:10:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 13:20:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 13:30:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 13:40:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 13:50:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 14:00:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 14:10:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 14:20:00 | TRZCIANA 336, TRZCIANA
-2021-04-21 14:30:00 | TRZCIANA 336, TRZCIANA
-2021-04-27 11:50:00 | Borzęcin 87b, Borzęcin
-2021-04-27 12:00:00 | Borzęcin 87b, Borzęcin
-2021-04-28 09:35:00 | Krakowska 31, Bochnia
+2021-05-15 10:10:00 | Św. Heleny 30B, Nowy Sącz
 ```
 

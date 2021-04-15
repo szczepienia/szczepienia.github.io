@@ -1,20 +1,20 @@
 #### pfizer
 ```
-2021-04-23 14:35:00 | Mickiewicza 2, Sławatycze
-2021-04-23 14:40:00 | Mickiewicza 2, Sławatycze
-2021-04-23 14:45:00 | Mickiewicza 2, Sławatycze
-2021-04-23 14:50:00 | Mickiewicza 2, Sławatycze
-2021-04-23 14:55:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:05:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:10:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:20:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:25:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:30:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:35:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:40:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:45:00 | Mickiewicza 2, Sławatycze
-2021-04-23 15:50:00 | Mickiewicza 2, Sławatycze
-2021-04-30 14:05:00 | Mickiewicza 2, Sławatycze
+2021-05-11 11:50:00 | Janowska 18, Konstantynów
+2021-05-11 12:05:00 | Janowska 18, Konstantynów
+2021-05-11 12:20:00 | Janowska 18, Konstantynów
+2021-05-11 12:35:00 | Janowska 18, Konstantynów
+2021-05-11 12:40:00 | Janowska 18, Konstantynów
+2021-05-11 12:50:00 | Janowska 18, Konstantynów
+2021-05-11 12:55:00 | Janowska 18, Konstantynów
+2021-05-11 13:05:00 | Janowska 18, Konstantynów
+2021-05-11 13:10:00 | Janowska 18, Konstantynów
+2021-05-11 13:20:00 | Janowska 18, Konstantynów
+2021-05-11 13:35:00 | Janowska 18, Konstantynów
+2021-05-11 13:50:00 | Janowska 18, Konstantynów
+2021-05-11 14:05:00 | Janowska 18, Konstantynów
+2021-05-11 14:20:00 | Janowska 18, Konstantynów
+2021-05-11 14:35:00 | Janowska 18, Konstantynów
 ```
 
 #### moderna
@@ -39,9 +39,5 @@
 #### AstraZeneca
 ```
 2021-05-04 11:00:00 | Kosynierów 17, Świdnik
-```
-
-#### Johnson and Johnson
-```
 ```
 
