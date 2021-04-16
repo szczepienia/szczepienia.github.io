@@ -1,5 +1,12 @@
 #### pfizer
 ```
+2021-04-21 14:00:00 | Prosta  30, Kielce
+2021-04-21 14:15:00 | Prosta  30, Kielce
+2021-04-21 14:30:00 | Prosta  30, Kielce
+2021-04-21 14:45:00 | Prosta  30, Kielce
+2021-04-21 15:00:00 | Prosta  30, Kielce
+2021-04-21 15:15:00 | Prosta  30, Kielce
+2021-04-21 15:30:00 | Prosta  30, Kielce
 ```
 
 #### moderna
@@ -8,10 +15,10 @@
 
 #### AstraZeneca
 ```
-2021-04-20 07:45:00 | ZAGNAŃSKA 27, KIELCE
-2021-04-24 08:55:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-17 09:15:00 | Prosta  30, Kielce
+2021-04-20 07:30:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-22 07:05:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-25 08:55:00 | ZAGNAŃSKA 27, KIELCE
-2021-04-26 08:55:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-27 08:45:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-27 09:00:00 | UL.ZAKŁADOWA 1, KIELCE
 2021-04-28 08:45:00 | ZAGNAŃSKA 27, KIELCE
@@ -22,6 +29,6 @@
 2021-05-03 07:00:00 | ZAGNAŃSKA 27, KIELCE
 2021-05-05 09:20:00 | Warszawska 30, Kielce
 2021-05-05 09:20:00 | Robotnicza  1, Kielce
-2021-05-06 09:20:00 | Robotnicza  1, Kielce
+2021-05-06 08:20:00 | Robotnicza  1, Kielce
 ```
 

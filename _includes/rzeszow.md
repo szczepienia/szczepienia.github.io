@@ -13,7 +13,6 @@
 
 #### moderna
 ```
-2021-04-16 11:30:00 | Bielawskiego 18, Brzozów
 2021-04-16 12:10:00 | Bielawskiego 18, Brzozów
 2021-04-16 12:20:00 | Bielawskiego 18, Brzozów
 2021-04-16 12:30:00 | Bielawskiego 18, Brzozów
@@ -28,6 +27,7 @@
 2021-04-16 14:00:00 | Bielawskiego 18, Brzozów
 2021-04-16 14:10:00 | Bielawskiego 18, Brzozów
 2021-04-16 14:20:00 | Bielawskiego 18, Brzozów
+2021-04-16 14:30:00 | Bielawskiego 18, Brzozów
 ```
 
 #### AstraZeneca
