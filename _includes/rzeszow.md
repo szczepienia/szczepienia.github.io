@@ -5,9 +5,9 @@
 2021-04-17 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-18 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-23 08:30:00 | u. Łukasiewicza 88, Rzeszów
 ```
 
 #### moderna
