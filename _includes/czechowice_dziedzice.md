@@ -1,44 +1,58 @@
 #### pfizer
 ```
-2021-04-22 14:40:00 | Zamkowa 1A, Koniecpol
-2021-04-22 14:45:00 | Zamkowa 1A, Koniecpol
-2021-04-22 14:50:00 | Zamkowa 1A, Koniecpol
-2021-04-22 14:55:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:00:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:05:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:10:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:15:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:20:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:25:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:30:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:35:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:40:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:45:00 | Zamkowa 1A, Koniecpol
-2021-04-22 15:50:00 | Zamkowa 1A, Koniecpol
+2021-05-12 10:50:00 | Niepodległości 8, Knurów
+2021-05-19 10:45:00 | Niepodległości 8, Knurów
+2021-05-19 11:00:00 | Niepodległości 8, Knurów
+2021-05-22 08:10:00 | Grodziecka 52, Czeladź
+2021-05-22 08:40:00 | Grodziecka 52, Czeladź
+2021-05-22 08:50:00 | Grodziecka 52, Czeladź
+2021-05-22 09:00:00 | Grodziecka 52, Czeladź
+2021-05-22 09:10:00 | Grodziecka 52, Czeladź
+2021-05-22 09:20:00 | Grodziecka 52, Czeladź
+2021-05-22 09:40:00 | Grodziecka 52, Czeladź
+2021-05-22 09:50:00 | Grodziecka 52, Czeladź
+2021-05-25 15:20:00 | Akademicka 29, Gliwice
+2021-05-26 10:00:00 | Niepodległości 8, Knurów
+2021-05-26 10:10:00 | Niepodległości 8, Knurów
+2021-05-26 10:15:00 | Niepodległości 8, Knurów
 ```
 
 #### moderna
 ```
-2021-04-24 11:55:00 | Tadeusza Kościuszki 229, Katowice
-2021-04-28 12:40:00 | Tadeusza Kościuszki 229, Katowice
-2021-04-30 12:35:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-30 12:40:00 | Tadeusza Kościuszki 229, Katowice
-2021-04-30 12:40:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-01 12:35:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 11:45:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 11:50:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 11:55:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:05:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:10:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:15:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:20:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:25:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-02 12:30:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-04-17 13:00:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:10:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:15:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:20:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:25:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:30:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:35:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:40:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:45:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:50:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 13:55:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 14:00:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 14:05:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 14:10:00 | Strzelców Bytomskich 11, Chorzów
+2021-04-17 14:15:00 | Strzelców Bytomskich 11, Chorzów
 ```
 
 #### AstraZeneca
 ```
-2021-04-30 18:00:00 | Wyzwolenia 18, Wilkowice
+2021-05-21 08:10:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:15:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:20:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:25:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:35:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:45:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:50:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 08:55:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:00:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:05:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:10:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:15:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:20:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:25:00 | Wielka Puszcza 23, Porąbka
+2021-05-21 09:30:00 | Wielka Puszcza 23, Porąbka
 ```
 
 #### Johnson and Johnson
