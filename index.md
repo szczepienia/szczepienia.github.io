@@ -9,7 +9,7 @@ Terminy listowana na stronach są to jedne z wielu dostępnych, niestety wyszuki
 
 Instrukcja jak dostać termin wylistowany na stronach, masz trzy opcje:
 
-1. Profil zaufany https://pacjent.erejestracja.ezdrowie.gov.pl/  - najprostsze i najszybsze
+1. Profil zaufany https://pacjent.erejestracja.ezdrowie.gov.pl/  - najprostsze i najszybsze (można założyć tymczasowy profil zaufany ważny 3 miesiące, można to zrobić online, potrzebna jest kamerka - urzędnik będzie dzwonił, trzeba będzie mu pokazać dowód osobisty i siebie), oprócz można logować sie też nowym dowodem (tym z PINem).
 
 2. Dzwonisz na 989 i prosisz konsultanta o termin pod podanym adresem (może być potrzebny kod pocztowy).
 
