@@ -1,8 +1,8 @@
 #### pfizer
 ```
-2021-05-20 09:55:00 | Jaczewskiego 2, Lublin
-2021-05-22 09:55:00 | Zalewskiego 1, Lublin
-2021-05-26 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-04-29 10:00:00 | Grenadierów 3, Lublin
+2021-05-26 09:55:00 | Jaczewskiego 2, Lublin
+2021-05-27 09:55:00 | Jaczewskiego 2, Lublin
 2021-05-28 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-29 08:00:00 | Zalewskiego 1, Lublin
 2021-05-29 08:20:00 | Zalewskiego 1, Lublin
@@ -33,9 +33,6 @@
 
 #### AstraZeneca
 ```
-2021-05-11 08:20:00 | Władysława Orkana 7, Lublin
-2021-05-11 08:30:00 | Władysława Orkana 7, Lublin
-2021-05-13 08:00:00 | Zalewskiego 1, Lublin
 2021-05-18 08:00:00 | Władysława Orkana 7, Lublin
 2021-05-18 08:10:00 | Władysława Orkana 7, Lublin
 2021-05-18 08:20:00 | Władysława Orkana 7, Lublin
@@ -48,6 +45,9 @@
 2021-05-25 08:00:00 | Władysława Orkana 7, Lublin
 2021-05-25 08:10:00 | Władysława Orkana 7, Lublin
 2021-05-25 08:20:00 | Władysława Orkana 7, Lublin
+2021-05-25 08:30:00 | Władysława Orkana 7, Lublin
+2021-05-26 08:25:00 | Abramowicka 2, Lublin
+2021-05-27 08:00:00 | Mariana Langiewicza 6/A, Lublin
 ```
 
 #### Johnson and Johnson
