@@ -1,26 +1,29 @@
 #### pfizer
 ```
-2021-05-13 09:45:00 | Świecka 27, TUCHOLA
-2021-05-20 13:20:00 | ul. Ogrodowa 9, Szubin
-2021-05-28 15:10:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:30:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:35:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:40:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:45:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:50:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 14:55:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 15:00:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 15:05:00 | Stefana Batorego  17-19, Toruń
-2021-05-29 15:10:00 | Stefana Batorego  17-19, Toruń
+2021-04-24 08:00:00 | Ikara 4, Grudziądz
+2021-04-24 08:15:00 | Ikara 4, Grudziądz
+2021-04-24 12:20:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:25:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:30:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:35:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:40:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:45:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:50:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 12:55:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 13:00:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 13:05:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 13:10:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 13:15:00 | Jeziora Wielkie 41a, Jeziora Wielkie
+2021-04-24 13:20:00 | Jeziora Wielkie 41a, Jeziora Wielkie
 ```
 
 #### moderna
 ```
+2021-04-20 10:50:00 | ul. Rydygiera  15/17, Grudziądz
 ```
 
 #### AstraZeneca
 ```
-2021-04-23 12:20:00 | Kijowska 39, Bydgoszcz
-2021-04-26 10:00:00 | Szubińska 32, Bydgoszcz
+2021-05-07 15:15:00 | Powstańców Wielkopolskich 26, Bydgoszcz
 ```
 
