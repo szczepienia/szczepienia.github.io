@@ -1,54 +1,57 @@
 #### pfizer
 ```
-2021-04-17 12:15:00 | Pomorska 75, Łódź
-2021-04-18 14:30:00 | Kochanowskiego 14a, Łódź
-2021-04-18 14:45:00 | Kochanowskiego 14a, Łódź
-2021-04-18 15:00:00 | Kochanowskiego 14a, Łódź
-2021-04-18 15:15:00 | Kochanowskiego 14a, Łódź
-2021-04-18 15:30:00 | Kochanowskiego 14a, Łódź
-2021-04-18 15:45:00 | Kochanowskiego 14a, Łódź
-2021-04-18 16:00:00 | Kochanowskiego 14a, Łódź
-2021-04-18 16:15:00 | Kochanowskiego 14a, Łódź
-2021-04-18 16:30:00 | Kochanowskiego 14a, Łódź
-2021-04-18 16:45:00 | Kochanowskiego 14a, Łódź
-2021-04-21 19:45:00 | Rzgowska 281/289, Łódź
-2021-04-22 18:00:00 | Rzgowska 281/289, Łódź
-2021-04-22 18:15:00 | Rzgowska 281/289, Łódź
-2021-04-22 18:30:00 | Rzgowska 281/289, Łódź
+2021-04-20 12:10:00 | Ułańska 28, Łowicz
+2021-04-20 12:15:00 | Ułańska 28, Łowicz
+2021-04-20 12:20:00 | Ułańska 28, Łowicz
+2021-04-20 12:25:00 | Ułańska 28, Łowicz
+2021-04-20 12:30:00 | Ułańska 28, Łowicz
+2021-04-20 12:35:00 | Ułańska 28, Łowicz
+2021-04-20 12:40:00 | Ułańska 28, Łowicz
+2021-04-20 12:45:00 | Ułańska 28, Łowicz
+2021-04-20 12:50:00 | Ułańska 28, Łowicz
+2021-04-20 12:55:00 | Ułańska 28, Łowicz
+2021-04-20 13:00:00 | Ułańska 28, Łowicz
+2021-04-20 13:05:00 | Ułańska 28, Łowicz
+2021-04-20 13:10:00 | Ułańska 28, Łowicz
+2021-04-20 13:15:00 | Ułańska 28, Łowicz
+2021-04-20 13:20:00 | Ułańska 28, Łowicz
 ```
 
 #### moderna
 ```
-2021-04-16 14:00:00 | Limanowskiego 47, Łódź
-2021-04-18 16:40:00 | Pomorska 251, Łódź
-2021-04-18 16:50:00 | Pomorska 251, Łódź
-2021-04-18 17:10:00 | Pomorska 251, Łódź
-2021-04-18 17:20:00 | Pomorska 251, Łódź
-2021-04-18 17:30:00 | Pomorska 251, Łódź
-2021-04-18 17:40:00 | Pomorska 251, Łódź
-2021-04-18 17:50:00 | Pomorska 251, Łódź
+2021-04-23 15:10:00 | Moniuszki 4a, Łódź
+2021-04-23 15:15:00 | Moniuszki 4a, Łódź
+2021-04-23 15:20:00 | Moniuszki 4a, Łódź
+2021-04-23 15:25:00 | Moniuszki 4a, Łódź
+2021-04-23 15:30:00 | Moniuszki 4a, Łódź
+2021-04-23 15:35:00 | Moniuszki 4a, Łódź
+2021-04-23 15:35:00 | Pomorska 75, Łódź
+2021-04-23 15:40:00 | Moniuszki 4a, Łódź
+2021-04-23 15:45:00 | Moniuszki 4a, Łódź
+2021-04-23 15:45:00 | Pomorska 75, Łódź
+2021-04-23 15:50:00 | Moniuszki 4a, Łódź
+2021-04-23 15:50:00 | Pomorska 75, Łódź
+2021-04-23 15:55:00 | Pomorska 75, Łódź
+2021-04-23 15:55:00 | Moniuszki 4a, Łódź
+2021-04-23 16:05:00 | Moniuszki 4a, Łódź
 ```
 
 #### AstraZeneca
 ```
-2021-04-19 10:15:00 | Kochanowskiego 14a, Łódź
-2021-04-19 10:30:00 | Kochanowskiego 14a, Łódź
-2021-04-19 10:40:00 | Kochanowskiego 14a, Łódź
-2021-04-19 10:45:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:00:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:10:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:15:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:20:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:30:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:40:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:45:00 | Kochanowskiego 14a, Łódź
-2021-04-19 11:50:00 | Kochanowskiego 14a, Łódź
-2021-04-19 12:00:00 | Kochanowskiego 14a, Łódź
-2021-04-19 12:10:00 | Kochanowskiego 14a, Łódź
-2021-04-19 12:15:00 | Kochanowskiego 14a, Łódź
-```
-
-#### Johnson and Johnson
-```
+2021-04-19 15:00:00 | Rzgowska 281/289, Łódź
+2021-04-19 15:30:00 | Ignacego Paderewskiego 11, Łódź
+2021-04-19 17:45:00 | Rzgowska 281/289, Łódź
+2021-04-19 17:50:00 | Stanisława Dubois 114/116, Łódź
+2021-04-19 18:30:00 | Rzgowska 281/289, Łódź
+2021-04-21 11:45:00 | Wólczańska 215, Łódź
+2021-04-21 12:00:00 | Wólczańska 215, Łódź
+2021-04-21 12:15:00 | Wólczańska 215, Łódź
+2021-04-21 13:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
+2021-04-22 12:20:00 | Okrzei 40, Łódź
+2021-04-22 12:25:00 | Okrzei 40, Łódź
+2021-04-23 10:15:00 | Wólczańska 215, Łódź
+2021-04-23 10:30:00 | Wólczańska 215, Łódź
+2021-04-23 10:45:00 | Wólczańska 215, Łódź
+2021-04-23 10:50:00 | gen. Ignacego Prądzyńskiego 91, Łódź
 ```
 
