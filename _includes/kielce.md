@@ -1,34 +1,57 @@
 #### pfizer
 ```
-2021-04-21 14:00:00 | Prosta  30, Kielce
-2021-04-21 14:15:00 | Prosta  30, Kielce
-2021-04-21 14:30:00 | Prosta  30, Kielce
-2021-04-21 14:45:00 | Prosta  30, Kielce
-2021-04-21 15:00:00 | Prosta  30, Kielce
-2021-04-21 15:15:00 | Prosta  30, Kielce
-2021-04-21 15:30:00 | Prosta  30, Kielce
+2021-04-22 14:05:00 | Prosta  30, Kielce
+2021-04-22 14:10:00 | Prosta  30, Kielce
+2021-04-22 14:20:00 | Prosta  30, Kielce
+2021-04-22 14:25:00 | Prosta  30, Kielce
+2021-04-22 14:30:00 | Prosta  30, Kielce
+2021-04-22 14:35:00 | Prosta  30, Kielce
+2021-04-22 14:40:00 | Prosta  30, Kielce
+2021-04-22 14:45:00 | Prosta  30, Kielce
+2021-04-22 14:50:00 | Prosta  30, Kielce
+2021-04-22 14:55:00 | Prosta  30, Kielce
+2021-04-22 15:00:00 | Prosta  30, Kielce
+2021-04-22 15:05:00 | Prosta  30, Kielce
+2021-04-22 15:10:00 | Prosta  30, Kielce
+2021-04-22 15:15:00 | Prosta  30, Kielce
+2021-04-23 12:30:00 | ZAGNAŃSKA 27, KIELCE
 ```
 
 #### moderna
 ```
+2021-04-21 08:00:00 | Prosta  30, Kielce
+2021-04-21 08:55:00 | Prosta  30, Kielce
+2021-04-21 09:00:00 | Prosta  30, Kielce
+2021-04-21 09:10:00 | Prosta  30, Kielce
+2021-04-21 09:15:00 | Prosta  30, Kielce
+2021-04-21 09:20:00 | Prosta  30, Kielce
+2021-04-21 09:25:00 | Prosta  30, Kielce
+2021-04-21 09:30:00 | Prosta  30, Kielce
+2021-04-21 09:35:00 | Prosta  30, Kielce
+2021-04-21 09:40:00 | Prosta  30, Kielce
+2021-04-21 09:45:00 | Prosta  30, Kielce
 ```
 
 #### AstraZeneca
 ```
-2021-04-17 09:15:00 | Prosta  30, Kielce
-2021-04-20 07:30:00 | ZAGNAŃSKA 27, KIELCE
-2021-04-22 07:05:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-20 07:00:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-20 07:15:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-21 08:55:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-23 08:45:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-24 08:45:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-25 08:55:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-26 08:55:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-27 08:45:00 | ZAGNAŃSKA 27, KIELCE
-2021-04-27 09:00:00 | UL.ZAKŁADOWA 1, KIELCE
 2021-04-28 08:45:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-29 08:45:00 | ZAGNAŃSKA 27, KIELCE
+2021-04-29 08:55:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-30 08:45:00 | ZAGNAŃSKA 27, KIELCE
 2021-04-30 08:55:00 | ZAGNAŃSKA 27, KIELCE
-2021-05-02 08:55:00 | ZAGNAŃSKA 27, KIELCE
+2021-05-01 08:45:00 | ZAGNAŃSKA 27, KIELCE
 2021-05-03 07:00:00 | ZAGNAŃSKA 27, KIELCE
-2021-05-05 09:20:00 | Warszawska 30, Kielce
-2021-05-05 09:20:00 | Robotnicza  1, Kielce
-2021-05-06 08:20:00 | Robotnicza  1, Kielce
+```
+
+#### Johnson and Johnson
+```
 ```
 

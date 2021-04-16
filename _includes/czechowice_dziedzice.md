@@ -1,43 +1,47 @@
 #### pfizer
 ```
-2021-04-22 08:35:00 | Bema 4, Racibórz
-2021-04-22 08:50:00 | Bema 4, Racibórz
-2021-04-22 09:05:00 | Bema 4, Racibórz
-2021-04-22 09:10:00 | Bema 4, Racibórz
-2021-04-22 09:15:00 | Bema 4, Racibórz
-2021-04-22 09:45:00 | Bema 4, Racibórz
-2021-04-22 09:50:00 | Bema 4, Racibórz
-2021-04-22 09:55:00 | Bema 4, Racibórz
-2021-04-28 11:30:00 | Główna 78, Kobyla
-2021-04-28 14:30:00 | Raciborska 53, Zawada Książęca
-2021-05-05 09:35:00 | Akademicka 29, Gliwice
-2021-05-05 13:45:00 | Gamowska 3, Racibórz
-2021-05-06 12:45:00 | Gamowska 3, Racibórz
-2021-05-12 14:00:00 | Zacisze 27, Kornowac
-2021-05-21 14:15:00 | Kopernika 10, Nędza
+2021-04-22 14:40:00 | Zamkowa 1A, Koniecpol
+2021-04-22 14:45:00 | Zamkowa 1A, Koniecpol
+2021-04-22 14:50:00 | Zamkowa 1A, Koniecpol
+2021-04-22 14:55:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:00:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:05:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:10:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:15:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:20:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:25:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:30:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:35:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:40:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:45:00 | Zamkowa 1A, Koniecpol
+2021-04-22 15:50:00 | Zamkowa 1A, Koniecpol
 ```
 
 #### moderna
 ```
-2021-04-22 09:45:00 | Chłopickiego 16, Częstochowa
-2021-04-22 09:50:00 | Chłopickiego 16, Częstochowa
-2021-04-22 09:55:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:00:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:05:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:10:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:15:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:20:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:25:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:30:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:35:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:40:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:45:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:50:00 | Chłopickiego 16, Częstochowa
-2021-04-22 10:55:00 | Chłopickiego 16, Częstochowa
+2021-04-24 11:55:00 | Tadeusza Kościuszki 229, Katowice
+2021-04-28 12:40:00 | Tadeusza Kościuszki 229, Katowice
+2021-04-30 12:35:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-04-30 12:40:00 | Tadeusza Kościuszki 229, Katowice
+2021-04-30 12:40:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-01 12:35:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 11:45:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 11:50:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 11:55:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:05:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:10:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:15:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:20:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:25:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-02 12:30:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 ```
 
 #### AstraZeneca
 ```
-2021-05-15 08:50:00 | Wyzwolenia 18, Wilkowice
+2021-04-30 18:00:00 | Wyzwolenia 18, Wilkowice
+```
+
+#### Johnson and Johnson
+```
 ```
 
