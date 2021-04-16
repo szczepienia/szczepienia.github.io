@@ -2,7 +2,6 @@
 ```
 2021-04-17 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-17 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-18 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-18 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
@@ -13,7 +12,6 @@
 
 #### moderna
 ```
-2021-04-16 11:20:00 | Bielawskiego 18, Brzozów
 2021-04-16 11:30:00 | Bielawskiego 18, Brzozów
 2021-04-16 12:10:00 | Bielawskiego 18, Brzozów
 2021-04-16 12:20:00 | Bielawskiego 18, Brzozów
@@ -28,6 +26,7 @@
 2021-04-16 13:50:00 | Bielawskiego 18, Brzozów
 2021-04-16 14:00:00 | Bielawskiego 18, Brzozów
 2021-04-16 14:10:00 | Bielawskiego 18, Brzozów
+2021-04-16 14:20:00 | Bielawskiego 18, Brzozów
 ```
 
 #### AstraZeneca
@@ -41,11 +40,11 @@
 2021-04-19 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-20 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-20 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-21 08:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-22 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-22 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-23 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-23 08:20:00 | Jana Pawła II 94, Rzeszów
 2021-04-23 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-23 08:25:00 | Jana Pawła II 94, Rzeszów
 ```
 

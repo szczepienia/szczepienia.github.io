@@ -1,11 +1,9 @@
 #### pfizer
 ```
-2021-05-12 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
-2021-05-13 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
-2021-05-26 09:45:00 | Al. Racławickie 23, Lublin
-2021-05-26 09:45:00 | Jaczewskiego 2, Lublin
+2021-05-22 08:20:00 | Nałkowskich 114, Lublin
+2021-05-23 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-25 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-27 09:40:00 | Grenadierów 3, Lublin
-2021-05-27 09:45:00 | Jaczewskiego 2, Lublin
 2021-05-28 09:40:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-29 08:15:00 | Zalewskiego 1, Lublin
 2021-05-29 08:20:00 | Zalewskiego 1, Lublin
@@ -15,6 +13,8 @@
 2021-05-29 08:50:00 | Zalewskiego 1, Lublin
 2021-05-29 08:55:00 | Zalewskiego 1, Lublin
 2021-05-29 09:00:00 | Zalewskiego 1, Lublin
+2021-05-29 09:05:00 | Zalewskiego 1, Lublin
+2021-05-29 09:10:00 | Zalewskiego 1, Lublin
 ```
 
 #### moderna
@@ -33,11 +33,7 @@
 
 #### AstraZeneca
 ```
-2021-05-21 08:00:00 | ŚLIWIŃSKIEGO 4, LUBLIN
-2021-05-21 08:20:00 | ŚLIWIŃSKIEGO 4, LUBLIN
-2021-05-21 08:30:00 | ŚLIWIŃSKIEGO 4, LUBLIN
-2021-05-21 08:40:00 | ŚLIWIŃSKIEGO 4, LUBLIN
-2021-05-21 08:50:00 | ŚLIWIŃSKIEGO 4, LUBLIN
+2021-04-29 09:00:00 | Mariana Langiewicza 6/A, Lublin
 2021-05-21 08:55:00 | Abramowicka 2, Lublin
 2021-05-24 08:55:00 | Abramowicka 2, Lublin
 2021-05-25 08:55:00 | Abramowicka 2, Lublin
@@ -48,5 +44,9 @@
 2021-05-27 08:25:00 | Zalewskiego 1, Lublin
 2021-05-27 08:30:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-27 08:35:00 | Abramowicka 2, Lublin
+2021-05-27 08:40:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-27 08:40:00 | Zalewskiego 1, Lublin
+2021-05-27 08:45:00 | Zalewskiego 1, Lublin
+2021-05-27 08:45:00 | Abramowicka 2, Lublin
 ```
 
