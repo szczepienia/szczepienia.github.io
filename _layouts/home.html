@@ -4,6 +4,7 @@ layout: default
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.data.theme.navigation_pages | default: default_paths %}
 <div class="home">
+    <p>Ostatnia aktualizacja: <strong>{{ site.time | date: "%Y-%m-%d %H:%M"}}</strong></p>
 
     <p>
     Pomoc przy wyszukiwaniu wolnych terminów na szczepienia przeciw COVID-19 w Polsce.
