@@ -1,7 +1,6 @@
 #### pfizer
 ```
-2021-04-23 12:50:00 | ul. Krakowska  250, Cianowice
-2021-04-23 12:55:00 | ul. Krakowska  250, Cianowice
+2021-04-25 13:10:00 | Słomnicka  69, Skała
 2021-04-26 11:20:00 | Słomnicka  69, Skała
 2021-04-26 11:25:00 | Słomnicka  69, Skała
 2021-04-26 11:30:00 | Słomnicka  69, Skała
@@ -10,11 +9,12 @@
 2021-04-26 11:45:00 | Słomnicka  69, Skała
 2021-04-26 11:50:00 | Słomnicka  69, Skała
 2021-04-26 11:55:00 | Słomnicka  69, Skała
-2021-04-26 12:00:00 | Słomnicka  69, Skała
 2021-04-26 12:05:00 | Słomnicka  69, Skała
 2021-04-26 12:10:00 | Słomnicka  69, Skała
 2021-04-26 12:15:00 | Słomnicka  69, Skała
 2021-04-26 12:20:00 | Słomnicka  69, Skała
+2021-04-26 12:25:00 | Słomnicka  69, Skała
+2021-04-26 12:30:00 | Słomnicka  69, Skała
 ```
 
 #### moderna
@@ -38,13 +38,9 @@
 
 #### AstraZeneca
 ```
-2021-04-18 12:30:00 | Kazimierza Wielkiego  22, Bochnia
-2021-04-18 13:35:00 | Kazimierza Wielkiego  22, Bochnia
-2021-04-18 14:00:00 | Kazimierza Wielkiego  22, Bochnia
-2021-04-18 14:40:00 | Kazimierza Wielkiego  22, Bochnia
-2021-04-18 15:05:00 | Kazimierza Wielkiego  22, Bochnia
 2021-04-18 15:20:00 | Kazimierza Wielkiego  22, Bochnia
 2021-04-20 10:40:00 | Borzęcin 87b, Borzęcin
+2021-04-27 09:10:00 | Borzęcin 87b, Borzęcin
 2021-05-25 08:20:00 | Borzęcin 87b, Borzęcin
 2021-05-25 08:30:00 | Borzęcin 87b, Borzęcin
 2021-05-25 08:40:00 | Borzęcin 87b, Borzęcin
@@ -53,6 +49,10 @@
 2021-05-25 09:10:00 | Borzęcin 87b, Borzęcin
 2021-05-25 09:20:00 | Borzęcin 87b, Borzęcin
 2021-05-25 09:30:00 | Borzęcin 87b, Borzęcin
+2021-05-25 09:40:00 | Borzęcin 87b, Borzęcin
+2021-05-25 10:00:00 | Borzęcin 87b, Borzęcin
+2021-05-25 10:10:00 | Borzęcin 87b, Borzęcin
+2021-05-25 10:20:00 | Borzęcin 87b, Borzęcin
 ```
 
 #### Johnson and Johnson
