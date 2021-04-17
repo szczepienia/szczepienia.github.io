@@ -7,7 +7,6 @@
 
 #### moderna
 ```
-2021-04-19 09:30:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-20 09:30:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-21 09:00:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-21 09:15:00 | księdza Jerzego Popiełuszki  1, Kraśnik
@@ -21,6 +20,7 @@
 2021-04-23 08:45:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-23 09:00:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-23 09:15:00 | księdza Jerzego Popiełuszki  1, Kraśnik
+2021-04-23 09:30:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 ```
 
 #### AstraZeneca
@@ -28,7 +28,6 @@
 2021-04-27 12:30:00 | Podwal 21, Biskupice
 2021-04-27 15:00:00 | Podwal 21, Biskupice
 2021-04-27 15:15:00 | Podwal 21, Biskupice
-2021-04-27 15:30:00 | Podwal 21, Biskupice
 ```
 
 #### Johnson and Johnson
