@@ -1,20 +1,20 @@
 #### pfizer
 ```
-2021-05-11 09:05:00 | Frezerów 3, Lublin
-2021-05-11 09:10:00 | Frezerów 3, Lublin
-2021-05-11 09:15:00 | Frezerów 3, Lublin
-2021-05-11 09:20:00 | Frezerów 3, Lublin
-2021-05-11 09:25:00 | Frezerów 3, Lublin
-2021-05-11 09:30:00 | Frezerów 3, Lublin
-2021-05-18 09:15:00 | Marii Koryznowej 2g, Lublin
 2021-05-19 08:50:00 | Jaczewskiego 2, Lublin
-2021-05-20 09:00:00 | Grenadierów 3, Lublin
-2021-05-26 09:30:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-19 10:00:00 | Al. Racławickie 23, Lublin
+2021-05-22 10:00:00 | Zalewskiego 1, Lublin
+2021-05-23 10:00:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-26 09:45:00 | Jaczewskiego 2, Lublin
 2021-05-28 09:50:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
-2021-05-29 08:00:00 | Zalewskiego 1, Lublin
 2021-05-29 08:05:00 | Zalewskiego 1, Lublin
 2021-05-29 08:15:00 | Nałkowskich 114, Lublin
+2021-05-29 08:20:00 | Zalewskiego 1, Lublin
+2021-05-29 08:20:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-29 08:25:00 | Zalewskiego 1, Lublin
+2021-05-29 08:50:00 | Zalewskiego 1, Lublin
+2021-05-29 08:55:00 | Zalewskiego 1, Lublin
+2021-05-29 09:10:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-29 09:20:00 | Zalewskiego 1, Lublin
 ```
 
 #### moderna
@@ -33,21 +33,21 @@
 
 #### AstraZeneca
 ```
-2021-04-29 08:35:00 | AGRESTOWA 8, LUBLIN
-2021-04-29 08:40:00 | AGRESTOWA 8, LUBLIN
-2021-04-30 08:05:00 | Marii Koryznowej 2g, Lublin
-2021-04-30 08:10:00 | Marii Koryznowej 2g, Lublin
-2021-04-30 08:30:00 | Marii Koryznowej 2g, Lublin
-2021-04-30 08:35:00 | Marii Koryznowej 2g, Lublin
-2021-05-06 08:40:00 | Frezerów 3, Lublin
-2021-05-18 08:00:00 | Władysława Orkana 7, Lublin
-2021-05-18 08:10:00 | Władysława Orkana 7, Lublin
-2021-05-18 08:30:00 | Władysława Orkana 7, Lublin
-2021-05-19 08:00:00 | Mariana Langiewicza 6/A, Lublin
-2021-05-19 08:15:00 | Mariana Langiewicza 6/A, Lublin
-2021-05-21 08:15:00 | Mariana Langiewicza 6/A, Lublin
-2021-05-21 08:30:00 | Mariana Langiewicza 6/A, Lublin
-2021-05-22 08:20:00 | Tymiankowa 7, Lublin
+2021-04-29 08:45:00 | AGRESTOWA 8, LUBLIN
+2021-04-30 08:45:00 | Marii Koryznowej 2g, Lublin
+2021-05-06 08:45:00 | Frezerów 3, Lublin
+2021-05-08 08:45:00 | AGRESTOWA 8, LUBLIN
+2021-05-25 08:00:00 | Władysława Orkana 7, Lublin
+2021-05-25 08:10:00 | Władysława Orkana 7, Lublin
+2021-05-25 08:20:00 | Władysława Orkana 7, Lublin
+2021-05-25 08:30:00 | Władysława Orkana 7, Lublin
+2021-05-25 08:40:00 | Władysława Orkana 7, Lublin
+2021-05-26 08:35:00 | Abramowicka 2, Lublin
+2021-05-27 08:00:00 | Mariana Langiewicza 6/A, Lublin
+2021-05-27 08:00:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-27 08:15:00 | Mariana Langiewicza 6/A, Lublin
+2021-05-27 08:15:00 | Zalewskiego 1, Lublin
+2021-05-27 08:25:00 | Zalewskiego 1, Lublin
 ```
 
 #### Johnson and Johnson

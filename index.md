@@ -25,7 +25,7 @@ Możesz sprawdzić czy masz skierowanie za pomocą [erejestracji](https://pacjen
 
 **Masz rodziców umówionych na AstraZenece? Możesz ich przepisać na Pfizera/Modernę.**
 
-Ostatnia aktualizacja: {{ site.time | date: "%Y-%m-%d %H:%M"}}
+Ostatnia aktualizacja: **{{ site.time | date: "%Y-%m-%d %H:%M"}}**
 
 Brakuje twojego województwa?
 Dopisz go w komentarzach:

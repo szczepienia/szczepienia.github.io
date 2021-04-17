@@ -1,45 +1,39 @@
 #### pfizer
 ```
-2021-04-21 17:40:00 | Królewska 10A, Brześć Kujawski
-2021-04-21 17:45:00 | Królewska 10A, Brześć Kujawski
-2021-04-22 17:35:00 | Królewska 10A, Brześć Kujawski
-2021-04-22 17:40:00 | Królewska 10A, Brześć Kujawski
-2021-04-22 17:45:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:10:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:15:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:20:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:25:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:30:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:35:00 | Królewska 10A, Brześć Kujawski
-2021-04-23 17:40:00 | Królewska 10A, Brześć Kujawski
-2021-04-25 13:48:00 | Jastrzębie 15, Jastrzębie
-2021-04-25 13:50:00 | Jastrzębie 15, Jastrzębie
-2021-05-06 13:00:00 | Szkolna 32, Boniewo
+2021-05-14 12:55:00 | Wiejska 9, Brodnica
+2021-05-17 13:30:00 | Osiedlowa 24, Zakrzewo
+2021-05-21 11:00:00 | Janusza Korczaka 25, Grudziądz
+2021-05-26 11:00:00 | Janusza Korczaka 25, Grudziądz
+2021-05-26 11:15:00 | Janusza Korczaka 25, Grudziądz
+2021-05-26 11:45:00 | Janusza Korczaka 25, Grudziądz
+2021-05-28 10:15:00 | Janusza Korczaka 25, Grudziądz
+2021-05-28 10:30:00 | Janusza Korczaka 25, Grudziądz
+2021-05-28 10:45:00 | Janusza Korczaka 25, Grudziądz
+2021-05-28 11:00:00 | Janusza Korczaka 25, Grudziądz
+2021-05-28 11:15:00 | Janusza Korczaka 25, Grudziądz
 ```
 
 #### moderna
 ```
-2021-04-25 16:50:00 | KALISKIEGO 7, BYDGOSZCZ
-2021-04-25 17:10:00 | KALISKIEGO 7, BYDGOSZCZ
 ```
 
 #### AstraZeneca
 ```
-2021-04-26 13:10:00 | Szubińska 32, Bydgoszcz
-2021-04-27 13:20:00 | Kijowska 39, Bydgoszcz
-2021-05-04 09:40:00 | Fordońska 199, Bydgoszcz
-2021-05-04 11:25:00 | Fordońska 199, Bydgoszcz
-2021-05-04 12:15:00 | Leśna 9, Bydgoszcz
-2021-05-04 12:30:00 | Leśna 9, Bydgoszcz
-2021-05-04 12:45:00 | Leśna 9, Bydgoszcz
-2021-05-10 10:25:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-10 11:40:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-10 13:10:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-10 14:40:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-10 14:45:00 | Kurpińskiego 5, Bydgoszcz
-2021-05-18 12:45:00 | Ujejskiego 75, Bydgoszcz
-2021-05-18 18:15:00 | Marii Skłodowskiej-Curie 9, Bydgoszcz
-2021-05-19 09:15:00 | Marii Skłodowskiej-Curie 9, Bydgoszcz
+2021-05-13 13:40:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 13:50:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 14:00:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 14:10:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 14:30:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 14:40:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 14:50:00 | Jastrzębie 15, Jastrzębie
+2021-05-13 15:00:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:00:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:10:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:20:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:30:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:40:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 13:50:00 | Jastrzębie 15, Jastrzębie
+2021-05-14 14:00:00 | Jastrzębie 15, Jastrzębie
 ```
 
 #### Johnson and Johnson
