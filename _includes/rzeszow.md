@@ -18,8 +18,6 @@
 2021-04-19 16:10:00 | 3 MAJA 41, BRZOZÓW
 2021-04-19 16:20:00 | 3 MAJA 41, BRZOZÓW
 2021-04-19 16:40:00 | 3 MAJA 41, BRZOZÓW
-2021-04-24 11:35:00 | Szkolna 13,  Krościenko Wyżne
-2021-04-24 11:45:00 | Szkolna 13,  Krościenko Wyżne
 2021-04-24 11:50:00 | Szkolna 13,  Krościenko Wyżne
 2021-04-24 11:55:00 | Szkolna 13,  Krościenko Wyżne
 2021-04-24 12:50:00 | Szkolna 13,  Krościenko Wyżne
@@ -29,6 +27,8 @@
 2021-04-24 13:10:00 | Szkolna 13,  Krościenko Wyżne
 2021-04-24 13:20:00 | Szkolna 13,  Krościenko Wyżne
 2021-04-24 13:25:00 | Szkolna 13,  Krościenko Wyżne
+2021-04-24 13:30:00 | Szkolna 13,  Krościenko Wyżne
+2021-04-24 13:35:00 | Szkolna 13,  Krościenko Wyżne
 ```
 
 #### AstraZeneca
