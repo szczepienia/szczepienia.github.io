@@ -1,7 +1,8 @@
 #### pfizer
 ```
-2021-05-09 10:10:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-13 10:10:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-13 10:10:00 | Grenadierów 3, Lublin
+2021-05-22 08:15:00 | Nałkowskich 114, Lublin
 2021-05-22 09:20:00 | Zalewskiego 1, Lublin
 2021-05-26 10:05:00 | Jaczewskiego 2, Lublin
 2021-05-27 09:00:00 | Grenadierów 3, Lublin
@@ -14,7 +15,6 @@
 2021-05-29 09:20:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-29 09:30:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-29 09:35:00 | Nałkowskich 114, Lublin
-2021-05-29 09:35:00 | Zalewskiego 1, Lublin
 ```
 
 #### moderna

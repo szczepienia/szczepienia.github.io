@@ -1,9 +1,6 @@
 #### pfizer
 ```
-2021-04-20 13:00:00 | Wiatraczna  21, Warszawa
-2021-04-20 13:15:00 | Wiatraczna  21, Warszawa
 2021-04-23 16:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-24 14:30:00 | Omulewska 27, Warszawa
 2021-04-24 15:00:00 | Omulewska 27, Warszawa
 2021-04-24 15:30:00 | Omulewska 27, Warszawa
 2021-04-24 15:45:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
@@ -11,6 +8,7 @@
 2021-04-25 15:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
 2021-04-25 15:45:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
 2021-04-25 16:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
+2021-04-25 16:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
 ```
 
 #### moderna
@@ -34,11 +32,11 @@
 
 #### AstraZeneca
 ```
-2021-04-20 15:30:00 | Waleriana Czumy 1, Warszawa
+2021-04-21 08:30:00 | Szaserów 128, Warszawa
+2021-04-21 09:00:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
+2021-04-21 10:00:00 | Szaserów 128, Warszawa
 2021-04-21 10:30:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-21 14:00:00 | Etiudy Rewolucyjnej 48, Warszawa
 2021-04-23 09:45:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
-2021-04-23 15:10:00 | Grójecka 186, Warszawa
 2021-04-24 09:30:00 | Omulewska 27, Warszawa
 2021-04-24 10:00:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
 2021-04-25 09:15:00 | Księcia Józefa Poniatowskiego 1, M. St. Warszawa
