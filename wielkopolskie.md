@@ -7,3 +7,10 @@ permalink: /wielkopolskie
 # Poznań
 
 {% include poznan.md %}
+
+---
+
+# Kalisz
+
+{% include kalisz.md %}
+
