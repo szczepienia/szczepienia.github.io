@@ -1,15 +1,16 @@
 #### pfizer
 ```
-2021-04-18 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-18 08:55:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-19 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-19 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-24 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
 ```
 
 #### moderna
@@ -33,21 +34,19 @@
 
 #### AstraZeneca
 ```
-2021-04-18 08:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-18 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-18 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-21 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-22 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-22 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-23 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-23 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-25 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 ```
 
 #### Johnson and Johnson
