@@ -1,20 +1,20 @@
 #### pfizer
 ```
-2021-04-19 11:00:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-22 11:30:00 | Kartuska 4/6, Gdańsk
 2021-04-22 11:30:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-22 11:30:00 | Oliwska 62, Gdańsk
-2021-04-23 11:15:00 | al. Jana Pawła II 50, Gdańsk
 2021-04-23 11:25:00 | STARTOWA 1, GDAŃSK
 2021-04-23 11:25:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-23 11:30:00 | Kartuska 4/6, Gdańsk
 2021-04-23 11:30:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-23 11:30:00 | STARTOWA 1, GDAŃSK
-2021-04-24 10:30:00 | Stanisława Lema 21, Gdańsk
-2021-04-24 10:45:00 | Stanisława Lema 21, Gdańsk
+2021-04-24 08:20:00 | Stanisława Lema 21, Gdańsk
 2021-04-24 11:00:00 | Stanisława Lema 21, Gdańsk
 2021-04-24 11:10:00 | Stanisława Lema 21, Gdańsk
 2021-04-24 11:15:00 | Stanisława Lema 21, Gdańsk
+2021-04-24 11:20:00 | Zbigniewa Burzyńskiego 1, Gdańsk
+2021-04-24 11:20:00 | Dębowa 21, Gdańsk
+2021-04-24 11:20:00 | GRUNWALDZKA 82, GDAŃSK WRZESZCZ
 ```
 
 #### moderna
@@ -28,17 +28,16 @@
 2021-04-21 12:30:00 | ŻAGLOWA  11, GDAŃSK
 2021-04-21 12:45:00 | ŻAGLOWA  11, GDAŃSK
 2021-04-21 13:00:00 | ŻAGLOWA  11, GDAŃSK
+2021-04-21 13:00:00 | Kartuska 4/6, Gdańsk
 2021-04-22 11:30:00 | Kartuska 4/6, Gdańsk
 2021-04-22 11:45:00 | ŻAGLOWA  11, GDAŃSK
 2021-04-22 11:45:00 | Kartuska 4/6, Gdańsk
 2021-04-24 11:50:00 | Zbigniewa Burzyńskiego 1, Gdańsk
 2021-04-24 12:40:00 | Zbigniewa Burzyńskiego 1, Gdańsk
-2021-04-25 12:30:00 | ŻAGLOWA  11, GDAŃSK
 ```
 
 #### AstraZeneca
 ```
-2021-04-19 10:20:00 | ŻAGLOWA  11, GDAŃSK
 2021-04-20 12:20:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-20 12:25:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-20 12:30:00 | Mariana Smoluchowskiego 18, Gdańsk
@@ -53,6 +52,7 @@
 2021-04-21 12:30:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-22 11:30:00 | Mariana Smoluchowskiego 18, Gdańsk
 2021-04-22 11:40:00 | Mariana Smoluchowskiego 18, Gdańsk
+2021-04-23 11:15:00 | Starowiejska 50/131, Gdańsk
 ```
 
 #### Johnson and Johnson

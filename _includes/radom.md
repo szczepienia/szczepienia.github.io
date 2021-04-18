@@ -1,6 +1,5 @@
 #### pfizer
 ```
-2021-05-08 09:25:00 | ul. Juliana Aleksandrowicza 5, Radom
 2021-05-09 09:10:00 | ul. Juliana Aleksandrowicza 5, Radom
 2021-05-10 09:15:00 | ul. Juliana Aleksandrowicza 5, Radom
 2021-05-10 10:55:00 | ul. Juliana Aleksandrowicza 5, Radom
@@ -15,25 +14,26 @@
 2021-05-16 09:00:00 | ul. Juliana Aleksandrowicza 5, Radom
 2021-05-16 09:10:00 | ul. Juliana Aleksandrowicza 5, Radom
 2021-05-16 10:30:00 | ul. Juliana Aleksandrowicza 5, Radom
+2021-05-16 10:50:00 | ul. Juliana Aleksandrowicza 5, Radom
 ```
 
 #### moderna
 ```
-2021-04-19 08:30:00 | ul. Jana Cybisa 4, Warszawa
-2021-04-19 12:45:00 | Szaserów 128, Warszawa
-2021-04-20 09:35:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-20 11:40:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:15:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:20:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:25:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:30:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:40:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:45:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-21 09:50:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-30 08:10:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:00:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:05:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:10:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:15:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:20:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-04-22 08:25:00 | Dąbrówki 52, Mińsk Mazowiecki
 2021-04-30 08:15:00 | Dąbrówki 52, Mińsk Mazowiecki
 2021-04-30 08:20:00 | Dąbrówki 52, Mińsk Mazowiecki
-2021-04-30 08:25:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:00:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:05:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:10:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:15:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:20:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-05 08:25:00 | Dąbrówki 52, Mińsk Mazowiecki
+2021-05-06 08:00:00 | Dąbrówki 52, Mińsk Mazowiecki
 ```
 
 #### AstraZeneca

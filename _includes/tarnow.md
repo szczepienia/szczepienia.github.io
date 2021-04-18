@@ -1,24 +1,25 @@
 #### pfizer
 ```
-2021-04-20 16:30:00 | Porąbka Uszewska 301, Porąbka Uszewska
-2021-04-20 16:45:00 | Porąbka Uszewska 301, Porąbka Uszewska
+2021-04-21 09:00:00 | Przybysławice 78, Przybysławice
+2021-04-21 11:30:00 | Przybysławice 78, Przybysławice
+2021-04-21 12:30:00 | Przybysławice 78, Przybysławice
+2021-04-21 12:45:00 | Przybysławice 78, Przybysławice
+2021-04-21 13:00:00 | Przybysławice 78, Przybysławice
 2021-04-23 13:45:00 | ul. Krakowska  250, Cianowice
-2021-04-24 13:35:00 | ul. Krakowska  250, Cianowice
 2021-04-24 13:40:00 | ul. Krakowska  250, Cianowice
+2021-04-24 13:45:00 | ul. Krakowska  250, Cianowice
+2021-04-25 12:15:00 | Słomnicka  69, Skała
 2021-04-25 13:40:00 | Słomnicka  69, Skała
-2021-04-26 11:35:00 | Słomnicka  69, Skała
 2021-04-26 11:40:00 | Słomnicka  69, Skała
 2021-04-26 11:45:00 | Słomnicka  69, Skała
 2021-04-26 11:50:00 | Słomnicka  69, Skała
 2021-04-26 11:55:00 | Słomnicka  69, Skała
 2021-04-26 12:05:00 | Słomnicka  69, Skała
-2021-04-26 12:10:00 | Słomnicka  69, Skała
-2021-04-26 12:15:00 | Słomnicka  69, Skała
-2021-04-26 12:20:00 | Słomnicka  69, Skała
 ```
 
 #### moderna
 ```
+2021-04-18 14:50:00 | ul. Kraszewskiego  142, Krynica-Zdrój
 2021-04-19 09:50:00 | Orkana 10, Mszana Dolna
 2021-04-19 13:05:00 | Orkana 10, Mszana Dolna
 2021-04-19 13:15:00 | Orkana 10, Mszana Dolna
@@ -33,7 +34,6 @@
 2021-04-19 14:25:00 | Orkana 10, Mszana Dolna
 2021-04-19 14:30:00 | Orkana 10, Mszana Dolna
 2021-04-19 14:35:00 | Orkana 10, Mszana Dolna
-2021-04-19 14:40:00 | Orkana 10, Mszana Dolna
 ```
 
 #### AstraZeneca

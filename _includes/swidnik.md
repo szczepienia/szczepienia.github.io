@@ -27,6 +27,7 @@
 2021-04-22 09:15:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-22 09:30:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-22 09:45:00 | księdza Jerzego Popiełuszki  1, Kraśnik
+2021-04-22 10:00:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-23 08:30:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-23 08:45:00 | księdza Jerzego Popiełuszki  1, Kraśnik
 2021-04-23 09:00:00 | księdza Jerzego Popiełuszki  1, Kraśnik

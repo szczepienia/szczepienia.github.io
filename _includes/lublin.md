@@ -1,9 +1,9 @@
 #### pfizer
 ```
-2021-05-15 10:05:00 | Zalewskiego 1, Lublin
-2021-05-19 10:05:00 | Jaczewskiego 2, Lublin
-2021-05-23 10:00:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
+2021-05-22 10:05:00 | Zalewskiego 1, Lublin
+2021-05-26 10:05:00 | Jaczewskiego 2, Lublin
 2021-05-27 09:00:00 | Grenadierów 3, Lublin
+2021-05-27 10:05:00 | Jaczewskiego 2, Lublin
 2021-05-28 10:00:00 | RADZIWIŁŁOWSKA 13 BUD. A13, LUBLIN
 2021-05-29 08:50:00 | Zalewskiego 1, Lublin
 2021-05-29 08:55:00 | Zalewskiego 1, Lublin
@@ -35,7 +35,7 @@
 #### AstraZeneca
 ```
 2021-04-24 08:55:00 | Onyksowa 10, Lublin
-2021-05-06 08:55:00 | Frezerów 3, Lublin
+2021-04-28 08:45:00 | Abramowicka 2, Lublin
 2021-05-22 08:10:00 | AGRESTOWA 8, LUBLIN
 2021-05-25 08:30:00 | Władysława Orkana 7, Lublin
 2021-05-25 08:40:00 | Władysława Orkana 7, Lublin
