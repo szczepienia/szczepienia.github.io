@@ -31,7 +31,3 @@
 2021-04-19 10:45:00 | PRZYJAŹNI 6/ U1, WROCŁAW
 ```
 
-#### Johnson and Johnson
-```
-```
-

@@ -1,6 +1,20 @@
 #### pfizer
 ```
-2021-05-10 15:15:00 | Kosynierów 17, Świdnik
+2021-04-20 11:40:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:00:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:10:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:20:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:30:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:40:00 | Brzeska 16, Janów Podlaski
+2021-04-20 12:50:00 | Brzeska 16, Janów Podlaski
+2021-04-20 13:00:00 | Brzeska 16, Janów Podlaski
+2021-04-20 13:10:00 | Brzeska 16, Janów Podlaski
+2021-04-20 13:20:00 | Brzeska 16, Janów Podlaski
+2021-04-21 11:00:00 | Brzeska 16, Janów Podlaski
+2021-04-21 11:10:00 | Brzeska 16, Janów Podlaski
+2021-04-21 11:20:00 | Brzeska 16, Janów Podlaski
+2021-04-21 11:30:00 | Brzeska 16, Janów Podlaski
+2021-04-21 11:40:00 | Brzeska 16, Janów Podlaski
 ```
 
 #### moderna
@@ -25,9 +39,5 @@
 #### AstraZeneca
 ```
 2021-04-27 15:30:00 | Podwal 21, Biskupice
-```
-
-#### Johnson and Johnson
-```
 ```
 
