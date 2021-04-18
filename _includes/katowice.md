@@ -1,27 +1,25 @@
 #### pfizer
 ```
-2021-04-22 09:40:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-24 11:35:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:37:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:40:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:42:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:45:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:47:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:50:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:52:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:55:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 11:57:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 12:07:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 12:12:00 | Stara Kłodnicka 43, Katowice
-2021-04-24 12:17:00 | Stara Kłodnicka 43, Katowice
 2021-04-24 12:20:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:22:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:25:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:27:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:32:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:35:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:37:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:40:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:42:00 | Stara Kłodnicka 43, Katowice
+2021-04-24 12:45:00 | Stara Kłodnicka 43, Katowice
+2021-04-30 09:05:00 | Józefowska 76, Katowice
+2021-04-30 09:10:00 | Józefowska 76, Katowice
+2021-05-05 12:40:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-05 12:40:00 | Żelazna 1, Katowice
+2021-05-05 12:45:00 | Żelazna 1, Katowice
 ```
 
 #### moderna
 ```
-2021-04-24 13:05:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-30 10:50:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-04-30 12:25:00 | Tadeusza Kościuszki 229, Katowice
+2021-04-28 09:30:00 | Tadeusza Kościuszki 229, Katowice
 2021-04-30 13:10:00 | Tadeusza Kościuszki 229, Katowice
 2021-04-30 13:10:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-01 12:55:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
@@ -38,8 +36,9 @@
 
 #### AstraZeneca
 ```
-2021-04-19 09:00:00 | PANEWNICKA 65, KATOWICE
-2021-04-22 09:05:00 | Raciborska  28, Katowice
+2021-04-24 08:40:00 | Graniczna 45, Katowice
+2021-04-24 09:10:00 | Graniczna 45, Katowice
+2021-04-26 09:20:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-02 09:30:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-03 09:30:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-04 09:30:00 | Powstańców 31, Katowice
@@ -48,11 +47,10 @@
 2021-05-05 09:30:00 | Kościuszki 92, Katowice
 2021-05-06 09:25:00 | DĘBOWA 3, KATOWICE
 2021-05-06 09:30:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-08 08:45:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
-2021-05-08 09:20:00 | Zawiszy Czarnego 7a, Katowice
 2021-05-08 09:25:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-09 09:25:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
 2021-05-13 09:25:00 | PLAC SŁAWIKA I ANTALLA  1, KATOWICE
+2021-05-14 09:25:00 | Stara Kłodnicka 43, Katowice
 ```
 
 #### Johnson and Johnson

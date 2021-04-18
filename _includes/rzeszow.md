@@ -1,8 +1,8 @@
 #### pfizer
 ```
-2021-04-19 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-19 08:55:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
@@ -33,9 +33,9 @@
 
 #### AstraZeneca
 ```
-2021-04-19 08:05:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-19 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-19 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-20 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-22 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-23 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
