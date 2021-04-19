@@ -1,11 +1,9 @@
 #### pfizer
 ```
-2021-05-26 09:30:00 | SOKOŁA 24, CHRZANÓW
-2021-05-26 09:40:00 | SOKOŁA 24, CHRZANÓW
-2021-05-26 09:50:00 | SOKOŁA 24, CHRZANÓW
-2021-05-26 10:00:00 | SOKOŁA 24, CHRZANÓW
+2021-05-18 10:20:00 | SOKOŁA 24, CHRZANÓW
+2021-05-25 10:15:00 | SOKOŁA 24, CHRZANÓW
+2021-05-26 10:10:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 08:10:00 | SOKOŁA 24, CHRZANÓW
-2021-05-27 08:20:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 08:30:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 08:40:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 08:50:00 | SOKOŁA 24, CHRZANÓW
@@ -15,17 +13,15 @@
 2021-05-27 09:30:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 09:40:00 | SOKOŁA 24, CHRZANÓW
 2021-05-27 09:50:00 | SOKOŁA 24, CHRZANÓW
+2021-05-27 10:00:00 | SOKOŁA 24, CHRZANÓW
+2021-05-27 10:10:00 | SOKOŁA 24, CHRZANÓW
 ```
 
 #### moderna
 ```
-2021-04-20 13:30:00 | Tysiąclecia 111, Nowy Targ
-2021-04-20 13:35:00 | Tysiąclecia 111, Nowy Targ
-2021-04-20 13:40:00 | Tysiąclecia 111, Nowy Targ
-2021-04-20 13:45:00 | Tysiąclecia 111, Nowy Targ
+2021-04-20 08:30:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 13:50:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 13:55:00 | Tysiąclecia 111, Nowy Targ
-2021-04-20 14:00:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 14:05:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 14:10:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 14:15:00 | Tysiąclecia 111, Nowy Targ
@@ -34,13 +30,17 @@
 2021-04-20 14:30:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 14:35:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 14:40:00 | Tysiąclecia 111, Nowy Targ
+2021-04-20 14:45:00 | Tysiąclecia 111, Nowy Targ
+2021-04-20 14:50:00 | Tysiąclecia 111, Nowy Targ
+2021-04-20 14:55:00 | Tysiąclecia 111, Nowy Targ
+2021-04-20 15:00:00 | Tysiąclecia 111, Nowy Targ
 ```
 
 #### AstraZeneca
 ```
-2021-05-10 20:45:00 | Mostowa 6, Tarnów
-2021-05-28 12:20:00 | Plac Dworcowy 6, Tarnów
-2021-05-28 12:25:00 | Plac Dworcowy 6, Tarnów
+2021-04-20 08:00:00 | Mostowa 6, Tarnów
+2021-05-06 11:20:00 | Juliusza Słowackiego 33-37, Tarnów
+2021-05-28 15:10:00 | Plac Dworcowy 6, Tarnów
 ```
 
 #### Johnson and Johnson
