@@ -2,7 +2,14 @@
 <script type="text/javascript">
     $(document).ready( function () {
         $("time.timeago").timeago();
-        $('#szczepienia').DataTable();
+        $('#szczepienia').DataTable( {
+        "paging":   false,
+        "ordering": true,
+        "info":     false,
+        "language": {
+            "url": "/assets/datatables.polish.json"
+        }
+    } );
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";

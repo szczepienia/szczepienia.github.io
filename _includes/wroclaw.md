@@ -1,30 +1,27 @@
 #### pfizer
 ```
 2021-04-24 08:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
-2021-04-24 08:30:00 | ul. Stabłowicka 147 bud. 3, Wrocław
 2021-04-24 08:30:00 | ul. Borowska  213, WROCŁAW
 2021-04-25 08:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 2021-04-25 08:30:00 | ul. Borowska  213, WROCŁAW
+2021-04-26 08:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 ```
 
 #### moderna
 ```
-2021-04-21 07:40:00 | Aleja Śląska 1, Wrocław
-2021-04-21 07:50:00 | Aleja Śląska 1, Wrocław
-2021-04-21 08:00:00 | Aleja Śląska 1, Wrocław
-2021-04-21 08:10:00 | Aleja Śląska 1, Wrocław
-2021-04-21 08:20:00 | Aleja Śląska 1, Wrocław
-2021-04-21 08:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
-2021-04-21 08:30:00 | Aleja Śląska 1, Wrocław
+2021-04-20 09:00:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
+2021-04-21 08:45:00 | Lekarska 1, Wrocław
+2021-04-21 08:45:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
+2021-04-21 09:00:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
+2021-04-21 09:00:00 | Lekarska 1, Wrocław
+2021-04-21 09:00:00 | Aleja Śląska 1, Wrocław
 ```
 
 #### AstraZeneca
 ```
+2021-04-20 08:40:00 | Grabiszyńska 35-39, Wrocław
 2021-04-20 09:10:00 | Grabiszyńska 35-39, Wrocław
-2021-04-20 09:55:00 | Lekarska 1, Wrocław
-2021-04-20 10:30:00 | Lekarska 1, Wrocław
 2021-04-20 10:45:00 | Lekarska 1, Wrocław
-2021-04-22 09:00:00 | Zaporoska 87, Wrocław
 2021-04-22 10:15:00 | Zaporoska 87, Wrocław
 2021-04-22 10:30:00 | Zaporoska 87, Wrocław
 2021-04-22 10:45:00 | Zaporoska 87, Wrocław
@@ -33,8 +30,10 @@
 2021-04-24 09:00:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 2021-04-24 09:15:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 2021-04-24 09:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
-2021-04-26 08:30:00 | ul. Borowska  213, WROCŁAW
+2021-04-26 08:30:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
+2021-04-26 08:45:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 2021-04-26 09:00:00 | Lekarska 1, Wrocław
+2021-04-26 09:00:00 | M.CURIE - SKŁODOWSKIEJ 50/52, WROCŁAW
 ```
 
 #### Johnson and Johnson

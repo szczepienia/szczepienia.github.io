@@ -3,5 +3,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 *.sh
-*.json
 *.swp
