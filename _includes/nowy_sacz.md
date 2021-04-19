@@ -1,12 +1,12 @@
 #### pfizer
 ```
-2021-05-25 08:45:00 | Młyńska 5, Nowy Sącz
+2021-05-21 08:50:00 | Rokitniańczyków  26, Nowy Sącz
+2021-05-25 08:50:00 | Rokitniańczyków  26, Nowy Sącz
 2021-05-26 08:30:00 | Młyńska 5, Nowy Sącz
 2021-05-26 08:30:00 | Rokitniańczyków  26, Nowy Sącz
 2021-05-26 08:40:00 | Rokitniańczyków  26, Nowy Sącz
 2021-05-26 08:45:00 | Młyńska 5, Nowy Sącz
 2021-05-27 08:15:00 | Młyńska 5, Nowy Sącz
-2021-05-27 08:20:00 | Rokitniańczyków  26, Nowy Sącz
 2021-05-27 08:30:00 | Młyńska 5, Nowy Sącz
 2021-05-27 08:30:00 | Rokitniańczyków  26, Nowy Sącz
 2021-05-27 08:40:00 | Rokitniańczyków  26, Nowy Sącz
@@ -30,15 +30,14 @@
 2021-04-20 15:15:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 15:20:00 | Tysiąclecia 111, Nowy Targ
 2021-04-20 15:25:00 | Tysiąclecia 111, Nowy Targ
-2021-04-22 13:15:00 | Szpitalna 3, Miechów
-2021-04-22 13:45:00 | Szpitalna 3, Miechów
-2021-04-22 14:00:00 | Szpitalna 3, Miechów
-2021-04-22 15:15:00 | Szpitalna 3, Miechów
+2021-04-22 15:50:00 | Kolejowa 31, NOWY TARG
+2021-04-22 15:55:00 | Kolejowa 31, NOWY TARG
+2021-04-22 16:00:00 | Kolejowa 31, NOWY TARG
+2021-04-22 16:05:00 | Kolejowa 31, NOWY TARG
 ```
 
 #### AstraZeneca
 ```
-2021-05-15 09:40:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-22 09:20:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-22 09:30:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-22 10:20:00 | Św. Heleny 30B, Nowy Sącz
@@ -46,6 +45,7 @@
 2021-05-22 10:50:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-22 11:00:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-22 12:30:00 | Św. Heleny 30B, Nowy Sącz
+2021-05-22 13:00:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-29 08:00:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-29 08:10:00 | Św. Heleny 30B, Nowy Sącz
 2021-05-29 09:00:00 | Św. Heleny 30B, Nowy Sącz

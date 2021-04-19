@@ -1,10 +1,12 @@
 #### pfizer
 ```
 2021-04-23 09:15:00 | u. Łukasiewicza 88, Rzeszów
+2021-04-24 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-24 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:55:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 09:05:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 09:10:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-25 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-24 09:15:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:55:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 09:00:00 | ul. Tadeusza Rejtana  53, Rzeszów
@@ -43,7 +45,6 @@
 2021-04-24 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-24 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
-2021-04-25 08:20:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:25:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:30:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
@@ -51,6 +52,7 @@
 2021-04-25 08:45:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-25 08:50:00 | ul. Tadeusza Rejtana  53, Rzeszów
 2021-04-26 08:35:00 | ul. Tadeusza Rejtana  53, Rzeszów
+2021-04-26 08:40:00 | ul. Tadeusza Rejtana  53, Rzeszów
 ```
 
 #### Johnson and Johnson
