@@ -21,18 +21,38 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
 
-    <object data="/assets/wojewodztwa.svg" type="image/svg+xml" width="700px"/>
+    <object data="/assets/wojewodztwa.svg" type="image/svg+xml" width="700px"></object>
 
-  <!--
+        {{ content }}
+
+        <p>Terminy listowana na stronach są to jedne z wielu dostępnych, niestety wyszukiwanie na erejestracji pokazuje tylko pierwsze dostępne terminy danego dnia w danym ośrodku (czasami więcej, nie wiem jaki jest algorytm).</p>
+
+        <p>Instrukcja jak dostać termin wylistowany na stronach, masz trzy opcje:</p>
+
+        <ol>
+            <li> Profil zaufany https://pacjent.erejestracja.ezdrowie.gov.pl/  - najprostsze i najszybsze (można założyć tymczasowy profil zaufany ważny 3 miesiące, można to zrobić online, potrzebna jest kamerka - urzędnik będzie dzwonił, trzeba będzie mu pokazać dowód osobisty i siebie), oprócz tego można logować sie też nowym dowodem (tym z PINem) lub mojeID.</li>
+
+            <li> Dzwonisz na 989 i prosisz konsultanta o termin pod podanym adresem (może być potrzebny kod pocztowy).</li>
+
+            <li> Wchodzisz na https://www.gov.pl/web/szczepimysie/mapa-punktow-szczepien#/ znajdujesz punkt szczepień po adresie, dzwonisz na podany numer telefonu.</li>
+            <ol>
+
+                <p>Info które nie było podane w mediach: <strong>Pfizer i Moderna jest dostępny dla wszystkich (od 1 kwietnia) którzy mają skierowanie</strong></p>
+
+                <p>Skierowania są wydawane automatycznie, 1 kwietnia skierowania dostały osoby 40+, 50+ które wyraziły chęć szczepienia w styczniu-marcu na specjalnej stronie (już niedostępnej).</p>
+
+                <p>Możesz sprawdzić czy masz skierowanie za pomocą [erejestracji](https://pacjent.erejestracja.ezdrowie.gov.pl/)</p>
+
+                <strong>Masz rodziców umówionych na AstraZenece? Możesz ich przepisać na Pfizera/Modernę.</strong>
+
+<!--
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
             <h3><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></h3>
             {%- endif -%}
             {%- endfor -%}
-    -->
-  {{ content }}
-
+            -->
 </div>
 
 
