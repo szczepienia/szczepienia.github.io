@@ -3,13 +3,50 @@
     $(document).ready( function () {
         $("time.timeago").timeago();
         $('#szczepienia').DataTable( {
-        "paging":   false,
-        "ordering": true,
-        "info":     false,
-        "language": {
-            "url": "/assets/datatables.polish.json"
-        }
-    } );
+            "paging":   false,
+            "ordering": true,
+            "info":     false,
+            "language": {
+                "url": "/assets/datatables.polish.json"
+            },
+            dom: 'Plfrtip',
+            searchPanes: {
+                cascadePanes: true,
+                columns: [0,2]
+            },
+            columnDefs: [
+                {
+                    searchPanes: {
+                        show: true
+                    },
+                    targets: [0]
+                },
+                {
+                    searchPanes: {
+                        show: false 
+                    },
+                    targets: [1]
+                },
+                {
+                    searchPanes: {
+                        show: true 
+                    },
+                    targets: [2]
+                },
+                {
+                    searchPanes: {
+                        show: false
+                    },
+                    targets: [3]
+                },
+                {
+                    searchPanes: {
+                        show: false
+                    },
+                    targets: [4]
+                },
+            ]
+        } );
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
