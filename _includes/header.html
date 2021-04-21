@@ -13,7 +13,7 @@
             dom: 'Plfrtip',
             searchPanes: {
                 cascadePanes: true,
-                columns: [0,2]
+                columns: [0,3]
             },
             columnDefs: [
                 {
@@ -30,13 +30,13 @@
                 },
                 {
                     searchPanes: {
-                        show: true 
+                        show: false 
                     },
                     targets: [2]
                 },
                 {
                     searchPanes: {
-                        show: false
+                        show: true 
                     },
                     targets: [3]
                 },
@@ -45,6 +45,12 @@
                         show: false
                     },
                     targets: [4]
+                },
+                {
+                    searchPanes: {
+                        show: false
+                    },
+                    targets: [5]
                 },
             ]
         } );
