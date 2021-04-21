@@ -13,4 +13,27 @@ $content-width: 1000px;
     left: -5px;
 }
 
+hr {
+    color: gray;
+    margin-left: 25% !important;
+    width: 50%;
+    border: 1px dashed rgb(64, 64, 64);
+}
+
+td.times {
+    margin-top:5%;
+    margin-bottom:5%;
+    line-height: 110%;
+}
+
+td.address {
+    width: 30%;
+    word-wrap: break-word;
+    line-height: 110%;
+}
+
+small.smaller {
+  font-size: x-small;
+} 
+
 @import "minima";
