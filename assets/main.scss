@@ -5,6 +5,7 @@
 $content-width: 1000px;
 
 .site-title::before {
+    /*
     content: image-set(
         url("/assets/logo.png") 1x,
         url("/assets/logo-70.png") 2x,
@@ -13,13 +14,17 @@ $content-width: 1000px;
         url("/assets/logo-175.png") 5x,
         url("/assets/logo-280.png") 8x
     );
+    */
+    background-image: url("/assets/logo-140.png");
+    background-size: 35px 35px;
+//    content: url("/assets/logo-140.png");
     display: inline-block;
     position: relative;
-    max-width: 35px;
-    width: 100%;
-    height: auto;
+    width: 35px;
+    height:35px;
     top: 10px;
     left: -5px;
+    content:"";
 }
 
 hr {
