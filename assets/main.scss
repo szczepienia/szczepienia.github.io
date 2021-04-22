@@ -10,12 +10,14 @@ $content-width: 1000px;
         url("/assets/logo-70.png") 2x,
         url("/assets/logo-105.png") 3x,
         url("/assets/logo-140.png") 4x,
-        url("/assets/logo-175.png") 4x,
+        url("/assets/logo-175.png") 5x,
         url("/assets/logo-280.png") 8x
     );
     display: inline-block;
     position: relative;
     max-width: 35px;
+    width: 100%;
+    height: auto;
     top: 10px;
     left: -5px;
 }
