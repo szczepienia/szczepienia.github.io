@@ -15,8 +15,7 @@ $content-width: 1000px;
     );
     display: inline-block;
     position: relative;
-    width: 35px;
-    height: 35px;
+    max-width: 35px;
     top: 10px;
     left: -5px;
 }
