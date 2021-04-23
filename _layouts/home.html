@@ -7,6 +7,20 @@ layout: default
     <p>Ostatnia aktualizacja: <strong><time class="timeago" datetime="{{ site.time | date: "%Y-%m-%dT%H:%M:%S%z"}}">{{ site.time | date: "%Y-%m-%d %H:%M"}}</time></strong></p>
 
     <p>
+    <strong>
+        Ze względu na bardzo duże zainteresowanie i znaczne obciążenie serwera muszę się ograniczyć do wyszukiwania terminów tylko
+        w większych miejscowościach.
+    </strong>
+    </p>
+
+    <p>
+    <strong>
+        Mniejsze miejscowości nadal mogą się pojawić, jeśli najwcześniejsze terminy w danym województwie są w takich miejscach - dzieje się to z automatu.
+    </strong>
+    </p>
+
+
+    <p>
     Pomoc przy wyszukiwaniu wolnych terminów na szczepienia przeciw COVID-19 w Polsce.
     </p>
     <p>
@@ -54,15 +68,5 @@ layout: default
             {%- endfor -%}
             -->
 </div>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="szczepienia/szczepienia.github.io"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <img src="https://t1.kirela.com/pixel.php?{{ page.url }}"/>
