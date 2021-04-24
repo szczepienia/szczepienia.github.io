@@ -1,6 +1,7 @@
 <header class="site-header" role="banner">
 <script type="text/javascript">
     $(document).ready( function () {
+        jQuery.timeago.settings.allowFuture = true;
         $("time.timeago").timeago();
         $('#szczepienia').DataTable( {
             "paging":   false,
