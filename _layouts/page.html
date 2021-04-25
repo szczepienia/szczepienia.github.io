@@ -7,9 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <p>
-  NEWS: <strong>Osoby 40-49 letnie które wyrażały chęć szczepienia styczeń-marzec mogą się zapisywać od 23 kwietnia na dowolny termin.</strong>
-  </p>
+  {% include news.html%}
+
+
   <div class="post-content">
     {{ content }}
   </div>
@@ -17,7 +17,7 @@ layout: default
 </article>
 
 <p>
-Jeśli masz jakieś uwagi (ale błagam, nie prośby o dodanie miast, niestety nadal nie mogę więcej dodać :( ) to <a href="https://github.com/szczepienia/szczepienia.github.io/issues">zgłoś</a>.
+Jeśli masz jakieś uwagi (ale błagam, nie prośby o dodanie miast, niestety nadal nie mogę więcej dodać ☹) to <a href="https://github.com/szczepienia/szczepienia.github.io/issues">zgłoś</a>.
 </p>
 
 <img src="https://t1.kirela.com/pixel.php?{{ page.url }}"/>
