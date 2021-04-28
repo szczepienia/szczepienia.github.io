@@ -2,12 +2,15 @@
 <script type="text/javascript">
     $(document).ready( function() {
         if ($("#nexttime").length) {
-            setTimeout(
-                function(){
-                    location.reload();
-                },
-                new Date($("#nexttime").attr("datetime")) - new Date() + 5000
-            );
+            var diff = new Date($("#nexttime").attr("datetime")) - new Date();
+            if (diff > 0) {
+                setTimeout(
+                    function(){
+                        location.reload();
+                    },
+                    diff + 5000
+                );
+            }
         }
         jQuery.timeago.settings.allowFuture = true;
         $("time.timeago").timeago();
