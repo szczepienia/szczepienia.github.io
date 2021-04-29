@@ -11,16 +11,18 @@
                     diff + 5000
                 );
             }
-        }
+            }
+
         jQuery.timeago.settings.allowFuture = true;
         $("time.timeago").timeago();
-        $('#szczepienia').DataTable( {
+
+        let datatablesConfig = {
             "paging":   false,
             "ordering": true,
             "info":     false,
             "language": {
                 "url": "/assets/datatables.polish.json"
-        },
+            },
             order: [[ 1, "asc" ]],
             responsive: true,
             dom: 'Plfrtip',
@@ -50,7 +52,7 @@
                 },
                 {
                     searchPanes: {
-                        show: true 
+                        show: true
                     },
                     targets: [3]
                 },
@@ -67,7 +69,40 @@
                     targets: [5]
                 },
             ]
-        } );
+        };
+        const url = new URL(window.location.href);
+        const city = url.searchParams.get('city');
+        const vaccine = url.searchParams.get('vaccine');
+        if (city) {
+            const cities = city.split(',');
+            console.log('found city');
+            datatablesConfig.searchPanes.cascadePanes = false;
+            datatablesConfig['columnDefs'][0].searchPanes.preSelect = cities;
+        }
+        if (vaccine) {
+            const vaccines = vaccine.split(',')
+            console.log('found vaccine');
+            datatablesConfig.searchPanes.cascadePanes = false;
+            datatablesConfig['columnDefs'][3].searchPanes.preSelect = vaccines;
+        }
+
+        $('#szczepienia').DataTable(datatablesConfig);
+
+    this.getParam = function(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    this.restore = function() {
+        var city = this.getParam('city');
+        var vaccine = this.getParam('vaccine');
+        if (city) {
+            this.dataTable.search(search).draw(false);
+        }
+    }
+    //this.restore();
+
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
