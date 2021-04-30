@@ -12,3 +12,4 @@ Pisali o nas:
 * [poradnikzdrowie](https://www.poradnikzdrowie.pl/aktualnosci/zmiana-terminu-szczepienia-na-covid-19-jak-to-zrobic-mapa-wolnych-terminow-aa-NX2o-Zhkm-Yq3d.html)
 * [Prawo.pl](https://www.prawo.pl/zdrowie/szczepienie-na-covid-19-jak-sie-zarejestrowac,506913.html)
 * [NOIZZ](https://noizz.pl/zdrowie/powstala-wyszukiwarka-wolnych-terminow-na-szczepienia-w-polsce/ren6rfs)
+* [mama:Du](https://mamadu.pl/152673,jak-szybko-zapisac-sie-na-szczepienie-przeciwko-covid-19-wolne-terminy)
