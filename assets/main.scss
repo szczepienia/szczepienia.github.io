@@ -4,11 +4,22 @@
 
 $content-width: 1000px;
 
+.toggle-times {
+    cursor: pointer;
+    padding-left: 16px;
+}
+
+.toggle-times::after {
+    color: #7a80dd;
+    content: " ⯆";
+}
+
 .bug {
+  width: 100%;
   text-align: right;
   margin-bottom: 4px;
-  margin-top: -5px;
-  font-size: 70%;
+  margin-top: -10px;
+  font-size: 60%;
 }
 
 .site-title::before {
@@ -53,8 +64,19 @@ td.address {
     line-height: 110%;
 }
 
-small.smaller {
-  font-size: x-small;
+.slot-count{
+  font-size: 80%;
+  width: 100%;
+  padding-bottom: 14px;
 } 
+
+.point-description {
+    width: 100%;
+    font-size: 70%;
+}
+
+.point-address {
+    width: 100%;
+}
 
 @import "minima";

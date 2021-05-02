@@ -1,6 +1,16 @@
 <header class="site-header" role="banner">
 <script type="text/javascript">
     $(document).ready( function() {
+        $('.extended-times').hide();
+        $('.toggle-times').click(function(){
+            if ($(this).text().includes("+")) {
+                $(this).text($(this).text().replace("+", "-"));
+            } else {
+                $(this).text($(this).text().replace("-", "+"));
+            }
+            $(this).parent().find('.extended-times').toggle("fast");
+
+        })
         if ($("#nexttime").length) {
             var diff = new Date($("#nexttime").attr("datetime")) - new Date();
             if (diff > 0) {
