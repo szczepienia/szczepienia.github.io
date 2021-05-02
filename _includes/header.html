@@ -98,21 +98,19 @@
 
         $('#szczepienia').DataTable(datatablesConfig);
 
-    this.getParam = function(name) {
-        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-        results = regex.exec(location.search);
-        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-    }
-    this.restore = function() {
-        var city = this.getParam('city');
-        var vaccine = this.getParam('vaccine');
-        if (city) {
-            this.dataTable.search(search).draw(false);
-        }
-    }
-    //this.restore();
 
+        //var map = new ol.Map({
+        //    target: 'map',
+        //    layers: [
+        //        new ol.layer.Tile({
+        //            source: new ol.source.OSM()
+        //        })
+        //    ],
+        //    view: new ol.View({
+        //        center: ol.proj.fromLonLat([22.177107, 49.9927121]),
+        //        zoom: 8
+        //    })
+        //});
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
