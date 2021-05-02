@@ -39,7 +39,12 @@
             searchPanes: {
                 hideCount: true,
                 cascadePanes: true,
-                columns: [0,3]
+                columns: [0,3],
+                dtOpts: {
+                    select: {
+                        style: 'multi'
+                    }
+                }
             },
             columnDefs: [
                 {
@@ -99,18 +104,18 @@
         $('#szczepienia').DataTable(datatablesConfig);
 
 
-        //var map = new ol.Map({
-        //    target: 'map',
-        //    layers: [
-        //        new ol.layer.Tile({
-        //            source: new ol.source.OSM()
-        //        })
-        //    ],
-        //    view: new ol.View({
-        //        center: ol.proj.fromLonLat([22.177107, 49.9927121]),
-        //        zoom: 8
-        //    })
-        //});
+        var map = new ol.Map({
+            target: 'map',
+            layers: [
+                new ol.layer.Tile({
+                    source: new ol.source.OSM()
+                })
+            ],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([22.177107, 49.9927121]),
+                zoom: 8
+            })
+        });
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
