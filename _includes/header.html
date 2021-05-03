@@ -1,6 +1,7 @@
 <header class="site-header" role="banner">
 <script type="text/javascript">
     $(document).ready( function() {
+        $('#map').hide();
         $('.extended-times').hide();
         $('.toggle-times').click(function(){
             if ($(this).text().includes("+")) {
@@ -104,18 +105,24 @@
         $('#szczepienia').DataTable(datatablesConfig);
 
 
-        var map = new ol.Map({
-            target: 'map',
-            layers: [
-                new ol.layer.Tile({
-                    source: new ol.source.OSM()
+        const showMap = url.searchParams.get('showMap');
+        if (showMap === "true") {
+            const lon = $('#szczepienia').data('lon');
+            const lat = $('#szczepienia').data('lat');
+            $('#map').show();
+            var map = new ol.Map({
+                target: 'map',
+                layers: [
+                    new ol.layer.Tile({
+                        source: new ol.source.OSM()
+                    })
+                ],
+                view: new ol.View({
+                    center: ol.proj.fromLonLat([lon, lat]),
+                    zoom: 8
                 })
-            ],
-            view: new ol.View({
-                center: ol.proj.fromLonLat([22.177107, 49.9927121]),
-                zoom: 8
-            })
-        });
+            });
+        }
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
