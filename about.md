@@ -16,3 +16,4 @@ Pisali o nas:
 * [Echo Dnia](https://echodnia.eu/swietokrzyskie/dostepne-terminy-szczepien-przeciwko-covid19-w-swietokrzyskiem-mozna-wybrac-rodzaj-szczepionki/ar/c14-15577195)
 * [O2](https://www.o2.pl/informacje/wyszukiwarka-wolnych-terminow-na-szczepienia-przeciw-covid-19-w-polsce-do-wyboru-szczepionki-astrazeneca-johnson-johnson-moderna-i-pfizer-6635714778749632a)
 * [Gazeta.pl](https://next.gazeta.pl/next/7,151003,27046639,stworzyl-wyszukiwarke-szczepien-moj-dostep-zostal-zablokowany.html)
+* [onet](https://wiadomosci.onet.pl/kraj/wyszukiwarka-wolnych-terminow-szczepienia-przeciw-covid-19-chwilowo-nie-dziala/exh9en0)
