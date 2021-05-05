@@ -18,3 +18,5 @@ Pisali o nas:
 * [Gazeta.pl](https://next.gazeta.pl/next/7,151003,27046639,stworzyl-wyszukiwarke-szczepien-moj-dostep-zostal-zablokowany.html)
 * [onet](https://wiadomosci.onet.pl/kraj/wyszukiwarka-wolnych-terminow-szczepienia-przeciw-covid-19-chwilowo-nie-dziala/exh9en0)
 * [OKO.press](https://oko.press/zaszczep-sie-w-majowke)
+* [Gazeta Krakowska](https://gazetakrakowska.pl/czy-mozna-sobie-wybrac-szczepionke-przeciw-koronawirusowi-okazuje-sie-ze-to-mozliwe/ar/c1-15595329)
+
