@@ -3,14 +3,13 @@
     $(document).ready( function() {
         $('#map').hide();
         $('.extended-times').hide();
-        $('.toggle-times').click(function(){
+        $('.toggle-times').click(function() {
             if ($(this).text().includes("+")) {
                 $(this).text($(this).text().replace("+", "-"));
             } else {
                 $(this).text($(this).text().replace("-", "+"));
             }
             $(this).parent().find('.extended-times').toggle("fast");
-
         })
         if ($("#nexttime").length) {
             var diff = new Date($("#nexttime").attr("datetime")) - new Date();
@@ -22,7 +21,7 @@
                     diff + 5000
                 );
             }
-            }
+        }
 
         jQuery.timeago.settings.allowFuture = true;
         $("time.timeago").timeago();
@@ -91,19 +90,16 @@
         const vaccine = url.searchParams.get('vaccine');
         if (city) {
             const cities = city.split(',');
-            console.log('found city');
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][0].searchPanes.preSelect = cities;
         }
         if (vaccine) {
             const vaccines = vaccine.split(',')
-            console.log('found vaccine');
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][3].searchPanes.preSelect = vaccines;
         }
 
         $('#szczepienia').DataTable(datatablesConfig);
-
 
         const showMap = url.searchParams.get('showMap');
         if (showMap === "true") {
