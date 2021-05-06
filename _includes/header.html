@@ -88,16 +88,16 @@
         };
         const url = new URL(window.location.href);
         const city = url.searchParams.get('city');
-        const vaccine = url.searchParams.get('vaccine');
+        const vaccine = url.searchParams.get('vaccine').replace("&", "&amp;");
         if (city) {
             const cities = city.split(',');
-            console.log('found city');
+            console.log('found cites', cities);
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][0].searchPanes.preSelect = cities;
         }
         if (vaccine) {
             const vaccines = vaccine.split(',')
-            console.log('found vaccine');
+            console.log('found vaccines: ', vaccines);
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][3].searchPanes.preSelect = vaccines;
         }
