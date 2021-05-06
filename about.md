@@ -20,4 +20,5 @@ Pisali o nas:
 * [OKO.press](https://oko.press/zaszczep-sie-w-majowke)
 * [Gazeta Krakowska](https://gazetakrakowska.pl/czy-mozna-sobie-wybrac-szczepionke-przeciw-koronawirusowi-okazuje-sie-ze-to-mozliwe/ar/c1-15595329)
 * [na:Temat](https://natemat.pl/351917,wyszukiwarka-wolnych-terminow-na-szczepienia-przeciw-covid-19)
+* [PCWorld](https://www.pcworld.pl/news/Masz-18-29-lat-i-dostales-e-skierowanie-Zaszczep-sie-dzis,427190.html)
 
