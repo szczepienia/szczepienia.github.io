@@ -22,3 +22,4 @@ Pisali o nas:
 * [na:Temat](https://natemat.pl/351917,wyszukiwarka-wolnych-terminow-na-szczepienia-przeciw-covid-19)
 * [PCWorld](https://www.pcworld.pl/news/Masz-18-29-lat-i-dostales-e-skierowanie-Zaszczep-sie-dzis,427190.html)
 * [upday news](https://news.upday.com/pl/rozmawiamy-z-tworca-mapki-z-terminami-wolnych-szczepien-w-polsce/)
+* [wyborcza.pl Radom](https://radom.wyborcza.pl/radom/7,48201,27056534,koronawirus-punkt-szczepien-przeciwko-covid-19-na-idalinie.html)
