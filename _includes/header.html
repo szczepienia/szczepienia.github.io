@@ -88,15 +88,23 @@
         const url = new URL(window.location.href);
         const city = url.searchParams.get('city');
         const vaccine = url.searchParams.get('vaccine');
+        const search = url.searchParams.get('q');
         if (city) {
             const cities = city.split(',');
+            console.log('found cites', cities);
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][0].searchPanes.preSelect = cities;
         }
         if (vaccine) {
-            const vaccines = vaccine.split(',')
+            const vaccines = vaccine.replace("&", "&amp;").split(',')
+            console.log('found vaccines: ', vaccines);
             datatablesConfig.searchPanes.cascadePanes = false;
             datatablesConfig['columnDefs'][3].searchPanes.preSelect = vaccines;
+        }
+        if (search) {
+            datatablesConfig.search = {
+                "search" : search
+            }
         }
 
         $('#szczepienia').DataTable(datatablesConfig);
