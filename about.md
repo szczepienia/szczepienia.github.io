@@ -23,3 +23,5 @@ Pisali o nas:
 * [PCWorld](https://www.pcworld.pl/news/Masz-18-29-lat-i-dostales-e-skierowanie-Zaszczep-sie-dzis,427190.html)
 * [upday news](https://news.upday.com/pl/rozmawiamy-z-tworca-mapki-z-terminami-wolnych-szczepien-w-polsce/)
 * [wyborcza.pl Radom](https://radom.wyborcza.pl/radom/7,48201,27056534,koronawirus-punkt-szczepien-przeciwko-covid-19-na-idalinie.html)
+* [SuperExpress Kraków](https://www.se.pl/krakow/koronawirus-jak-znalezc-wolny-termin-na-szczepienie-przeciwko-covid-19-w-malopolsce-zabieg-szybciej-o-nawet-miesiac-aa-YWun-uhj1-kn1C.html)
+* [nowiny24](https://nowiny24.pl/wiemy-dlaczego-szczepionki-pfizer-nie-dotarly-we-czwartek-do-rzeszowskiego-medyka/ar/c1-15600145)
