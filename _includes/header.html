@@ -3,14 +3,13 @@
     $(document).ready( function() {
         $('#map').hide();
         $('.extended-times').hide();
-        $('.toggle-times').click(function(){
+        $('.toggle-times').click(function() {
             if ($(this).text().includes("+")) {
                 $(this).text($(this).text().replace("+", "-"));
             } else {
                 $(this).text($(this).text().replace("-", "+"));
             }
             $(this).parent().find('.extended-times').toggle("fast");
-
         })
         if ($("#nexttime").length) {
             var diff = new Date($("#nexttime").attr("datetime")) - new Date();
@@ -22,7 +21,7 @@
                     diff + 5000
                 );
             }
-            }
+        }
 
         jQuery.timeago.settings.allowFuture = true;
         $("time.timeago").timeago();
@@ -109,7 +108,6 @@
         }
 
         $('#szczepienia').DataTable(datatablesConfig);
-
 
         const showMap = url.searchParams.get('showMap');
         if (showMap === "true") {
