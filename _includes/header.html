@@ -72,6 +72,9 @@
             return true;
         }
         const pointCoord = other.row(rowIdx).node().dataset;
+        if (!pointCoord.lat) {
+            return true;
+        }
         return distanceInKm(pointCoord.lat, pointCoord.lon, position.latitude, position.longitude) <= dist;
     }
 
