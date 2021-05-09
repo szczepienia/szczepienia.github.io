@@ -13,7 +13,6 @@ layout: default
   Wyszukiwanie jest wykonywane na najbliższe <strong>4 tygodnie</strong> dla całego województwa (tutaj się mogą pojawiać mniejsze miejscowości) i dla poszczególnych miast wymienionych niżej. Jeśli nie ma terminów dla któregoś z niżej wymienionych miast tzn. że brak jest tam terminów na chwilę obecną. 
   </p>
 
-  <div id="map" class="map"></div>
 
   <p>
   Numery telefonu ogólne dla każdej placówki:
@@ -22,6 +21,21 @@ layout: default
       <li>Poza granicami Polski: <a href="tel:+48226262989,">+48 226 262 989</a></li>
   </ul>
   </p>
+
+  <div id="map" class="map"></div>
+
+  <div class="location-settings">
+      <p>
+      Filtrowanie za pomocą odległości? Zlokalizuj się za pomocą przycisku: <span class="locate-me">⌖</span>
+      </p>
+      <p>
+      Albo wpisz lokalizację (szerokość, długość geograficzna): <input id="location-change" type="button" value="Aktualizuj"/><input id="location" type="text" placeholder="52.217, 21.033" pattern="[0-9]+(.[0-9.]+)?, *[0-9]+(.[0-9.]+)?"/>&nbsp;<a id="location-check" href="#" target="_blank">Sprawdź</a>
+  </p>
+  <span id="cities-locator" class="ui-widget">
+      <label for="cities">Wybierz miasto: </label>
+      <input id="cities">
+  </span>
+  </div>
   <div class="post-content">
     {{ content }}
   </div>

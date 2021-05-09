@@ -5,3 +5,4 @@ _site/
 logs/
 *.sh
 *.swp
+cities/*

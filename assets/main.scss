@@ -4,6 +4,22 @@
 
 $content-width: 1000px;
 
+.locate-me {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    border: none;
+    color: white;
+    padding: 0px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 4px;
+    border-radius: 50%;
+}
+
 .toggle-times {
     cursor: pointer;
     padding-left: 18px;
@@ -87,5 +103,22 @@ td.address {
 .general-info {
     visibility: hidden;
 }
+
+.small-slot {
+    color: #aaa;
+}
+
+.location-settings {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 5px
+}
+
+input:invalid {
+  border: red solid 3px;
+}
+
+.ui-autocomplete-loading { background:url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif) no-repeat right center }
 
 @import "minima";

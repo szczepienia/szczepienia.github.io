@@ -1,32 +1,11 @@
 <header class="site-header" role="banner">
 <script type="text/javascript">
-    $(document).ready( function() {
-        $('#map').hide();
-        $('.extended-times').hide();
-        $('.toggle-times').click(function() {
-            if ($(this).text().includes("+")) {
-                $(this).text($(this).text().replace("+", "-"));
-            } else {
-                $(this).text($(this).text().replace("-", "+"));
-            }
-            $(this).parent().find('.extended-times').toggle("fast");
-        })
-        if ($("#nexttime").length) {
-            var diff = new Date($("#nexttime").attr("datetime")) - new Date();
-            if (diff > 0) {
-                setTimeout(
-                    function(){
-                        location.reload();
-                    },
-                    diff + 5000
-                );
-            }
-        }
-
-        jQuery.timeago.settings.allowFuture = true;
-        $("time.timeago").timeago();
-
-        let datatablesConfig = {
+    const url = new URL(window.location.href);
+    const voi = document.title.substring(0, document.title.indexOf(' |')); // need to fix that
+    var locations = {};
+    var position;
+    var table;
+    var datatablesConfig = {
             "paging":   false,
             "ordering": true,
             "info":     false,
@@ -44,7 +23,9 @@
                     select: {
                         style: 'multi'
                     }
-                }
+                },
+                panes: [
+                ]
             },
             columnDefs: [
                 {
@@ -85,7 +66,53 @@
                 },
             ]
         };
-        const url = new URL(window.location.href);
+
+    function distanceSmaller(other, rowIdx, dist) {
+        if (!position) {
+            return true;
+        }
+        const pointCoord = other.row(rowIdx).node().dataset;
+        return distanceInKm(pointCoord.lat, pointCoord.lon, position.latitude, position.longitude) <= dist;
+    }
+
+    const distancePane = {
+                    header: 'Odległość do ...',
+                    options: [
+                        {
+                            label: ' 10 km',
+                            value: function(rowData, rowIdx) {
+                                return distanceSmaller(this, rowIdx, 10);
+                            }
+                        },
+                        {
+                            label: ' 25 km',
+                            value: function(rowData, rowIdx) {
+                                return distanceSmaller(this, rowIdx, 25);
+                            }
+                        },
+                        {
+                            label: ' 50 km',
+                            value: function(rowData, rowIdx) {
+                                return distanceSmaller(this, rowIdx, 50);
+                            }
+                        },
+                        {
+                            label: '100 km',
+                            value: function(rowData, rowIdx) {
+                                return distanceSmaller(this, rowIdx, 100);
+                            }
+                        }
+                    ],
+                    dtOpts: {
+                        searching: false,
+                        select:{
+                            style: 'single',
+                        },
+                        order: [[1, 'asc']]
+                    }
+    };
+
+    function initTable() {
         const city = url.searchParams.get('city');
         const vaccine = url.searchParams.get('vaccine');
         const search = url.searchParams.get('q');
@@ -107,7 +134,168 @@
             }
         }
 
-        $('#szczepienia').DataTable(datatablesConfig);
+        table = $('#szczepienia').DataTable(datatablesConfig);
+    }
+
+    function errorLocating(err) {
+        console.warn(`ERROR(${err.code}): ${err.message}`);
+    }
+
+    function updateLocationCheck() {
+        $('#location-check').attr("href", "https://www.google.com/maps/search/?api=1&query=" + position.latitude + "," + position.longitude);
+        $('#location-check').show();
+    }
+    function located(pos) {
+        position = pos.coords;
+        updateLocationCheck();
+        $('#location-change').show();
+        $('#location').val(position.latitude + "," + position.longitude);
+        console.log(`Position: https://www.google.com/maps/search/?api=1&query=${position.latitude},${position.longitude}`);
+            console.log(`More or less ${position.accuracy} meters.`);
+            //new $.fn.dataTable.SearchPanes(table, {});
+            //table.searchPanes.container().prependTo(table.table().container());
+            //table.searchPanes.resizePanes();
+            //table.searchPanes.rebuildPane();
+            showTableWithLocation();
+    }
+
+    function showTableWithLocation() {
+        datatablesConfig.searchPanes.panes = [distancePane];
+        table.destroy();
+        initTable();
+    }
+
+    function degreesToRadians(degrees) {
+        return degrees * Math.PI / 180;
+    }
+
+    function distanceInKm(lat1, lon1, lat2, lon2) {
+        var earthRadiusKm = 6371;
+
+        var dLat = degreesToRadians(lat2-lat1);
+        var dLon = degreesToRadians(lon2-lon1);
+
+        lat1 = degreesToRadians(lat1);
+        lat2 = degreesToRadians(lat2);
+
+        var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2);
+        var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return earthRadiusKm * c;
+    }
+
+    $(document).ready( function() {
+        $("#cities").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    dataType: "json",
+                    type : 'Get',
+                    //url: 'https://t1.kirela.com/cities.php',
+                    url: url.origin + '/cities/' + voi + '.json',
+                    //data: {
+                    //    voi: voi,
+                    //    term: request.term
+                    //},
+                    success: function(data) {
+                        //$('input.suggest-user').removeClass('ui-autocomplete-loading');
+                        // hide loading image
+
+                        response(data);
+                    },
+                    error: function(data) {
+                        //$('input.suggest-user').removeClass('ui-autocomplete-loading');
+                    }
+                });
+            },
+            minLength: 3,
+            //select: function( event, ui ) {
+            //    console.log( ui.item ?
+            //        "Selected: " + ui.item.label :
+            //    "Nothing selected, input was " + this.value);
+            //},
+            open: function() {
+                $( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
+            },
+            close: function() {
+                $( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
+            },
+            focus: function (event, ui) {
+                event.preventDefault();
+                $("#cities").val(ui.item.label);
+            },
+            select: function (event, ui) {
+                event.preventDefault();
+                //$("#projeKatmanRaporCbx").val(ui.item.value);
+                const pos = ui.item.value.split(',')
+                console.log("Postion found: ", pos);
+                position = {
+                    longitude: pos[0],
+                    latitude: pos[1]
+                }
+                $("#cities").val(ui.item.label);
+                datatablesConfig.searchPanes.panes = [distancePane];
+                table.destroy();
+                initTable();
+            }
+        });
+        //$('.locate-me').hide();
+        $('#location-check').hide();
+        $('#location-change').show();
+        $('#location-change').click(function() {
+            var value = $('#location').val()
+            if (value.indexOf(',') < 0) {
+                alert("Wartość powinna być w postaci: 51.8880, 19.6418");
+                return;
+            }
+            var splitted = $('#location').val().split(',');
+            var lat = splitted[0].trim();
+            var lon = splitted[1].trim();
+            console.log("'" + lat + "'");
+            console.log("'" + lon + "'");
+            if (isNaN(lat) || isNaN(lon)) {
+                alert("Wartość powinna być w postaci: 51.8880, 19.6418");
+                return;
+            }
+            position = {
+                latitude: lat,
+                longitude: lon
+            }
+            updateLocationCheck();
+            showTableWithLocation();
+        });
+        $('#cities-locator').hide();
+        $('.locate-me').click(function() {
+            navigator.geolocation.getCurrentPosition(located, errorLocating, {enableHighAccuracy: true});
+        });
+
+        $('#map').hide();
+        $('.extended-times').hide();
+        $('.toggle-times').click(function(){
+            if ($(this).text().includes("+")) {
+                $(this).text($(this).text().replace("+", "-"));
+            } else {
+                $(this).text($(this).text().replace("-", "+"));
+            }
+            $(this).parent().find('.extended-times').toggle("fast");
+
+        })
+        if ($("#nexttime").length) {
+            var diff = new Date($("#nexttime").attr("datetime")) - new Date();
+            if (diff > 0) {
+                setTimeout(
+                    function(){
+                        location.reload();
+                    },
+                    diff + 5000
+                );
+            }
+            }
+
+        jQuery.timeago.settings.allowFuture = true;
+        $("time.timeago").timeago();
+
+        initTable();
+
 
         const showMap = url.searchParams.get('showMap');
         if (showMap === "true") {
