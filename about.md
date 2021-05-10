@@ -26,3 +26,4 @@ Pisali o nas:
 * [SuperExpress Kraków](https://www.se.pl/krakow/koronawirus-jak-znalezc-wolny-termin-na-szczepienie-przeciwko-covid-19-w-malopolsce-zabieg-szybciej-o-nawet-miesiac-aa-YWun-uhj1-kn1C.html)
 * [nowiny24](https://nowiny24.pl/wiemy-dlaczego-szczepionki-pfizer-nie-dotarly-we-czwartek-do-rzeszowskiego-medyka/ar/c1-15600145)
 * [Gazeta Wyborcza Warszawa](https://warszawa.wyborcza.pl/warszawa/7,54420,27064343,chcesz-zmienic-termin-szczepienia-na-wczesniejszy-podpowiadamy.html)
+* [Fakt](https://www.fakt.pl/pieniadze/koronawirus-jak-wybrac-szczepionke-na-covid-19-jak-przyspieszyc-szczepienie/ebcgm8j)
