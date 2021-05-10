@@ -27,3 +27,4 @@ Pisali o nas:
 * [nowiny24](https://nowiny24.pl/wiemy-dlaczego-szczepionki-pfizer-nie-dotarly-we-czwartek-do-rzeszowskiego-medyka/ar/c1-15600145)
 * [Gazeta Wyborcza Warszawa](https://warszawa.wyborcza.pl/warszawa/7,54420,27064343,chcesz-zmienic-termin-szczepienia-na-wczesniejszy-podpowiadamy.html)
 * [Fakt](https://www.fakt.pl/pieniadze/koronawirus-jak-wybrac-szczepionke-na-covid-19-jak-przyspieszyc-szczepienie/ebcgm8j)
+* [Dziennik Zachodni](https://dziennikzachodni.pl/szczepienia-w-woj-slaskim-tu-sa-wolne-terminy-na-szczepienia-przeciwko-covid19/ar/c14-15603293)

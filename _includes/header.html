@@ -294,8 +294,9 @@
             }
             }
 
-        jQuery.timeago.settings.allowFuture = true;
-        $("time.timeago").timeago();
+            jQuery.timeago.settings.allowFuture = true;
+            jQuery.timeago.settings.cutoff = 1000*60;
+            $("time.timeago").timeago();
 
         initTable();
 
