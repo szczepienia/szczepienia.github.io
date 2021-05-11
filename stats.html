@@ -4,11 +4,10 @@ title: Statystyki
 permalink: /stats
 ---
 
-
 <p>
 Liczba szczepionek
 </p>
-<table id="" class="stripe">
+<table id="table-count" class="stripe dt-body-right">
     <thead>
         <tr>
             <th>Województwo</th>
@@ -39,9 +38,14 @@ Liczba szczepionek
     </tbody>
 
 </table>
+<br/>
+<hr/>
+<br/>
 
-Najwcześniejszy duży termin (dla &gt; 10 slotów danego dniai w placówce).
-<table id="" class="stripe">
+<p>
+Najwcześniejszy termin.
+</p>
+<table id="table-date" class="stripe dt-right">
     <thead>
         <tr>
             <th>Województwo</th>
@@ -49,6 +53,7 @@ Najwcześniejszy duży termin (dla &gt; 10 slotów danego dniai w placówce).
             <th>Moderna</th>
             <th>J&amp;J</th>
             <th>AstraZeneca</th>
+            <th>Wszystkie</th>
         </tr>
     </thead>
     <tbody>
@@ -71,3 +76,87 @@ Najwcześniejszy duży termin (dla &gt; 10 slotów danego dniai w placówce).
     </tbody>
 
 </table>
+
+
+
+<script type="text/javascript">
+
+    $(document).ready( function() {
+        $('#table-count').DataTable(
+            {
+                "paging":   false,
+                "ordering": true,
+                "info":     false,
+                "language": {
+                    "url": "/assets/datatables.polish.json"
+                },
+                order: [[ 5, "desc" ]],
+                responsive: true, 
+                columnDefs: [
+                    {
+                        targets: 0,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 1,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 2,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 3,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 4,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 5,
+                        className: 'dt-body-right'
+                    }
+                ]
+            }
+        );
+        $('#table-date').DataTable(
+            {
+                "paging":   false,
+                "ordering": true,
+                "info":     false,
+                "language": {
+                    "url": "/assets/datatables.polish.json"
+                },
+                order: [[ 5, "desc" ]],
+                responsive: true,
+                columnDefs: [
+                    {
+                        targets: 0,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 1,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 2,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 3,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 4,
+                        className: 'dt-body-right'
+                    },
+                    {
+                        targets: 5,
+                        className: 'dt-body-right'
+                    }
+                ]
+            }
+        );
+    });
+</script>
