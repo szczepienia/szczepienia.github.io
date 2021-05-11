@@ -1,0 +1,73 @@
+---
+layout: default
+title: Statystyki
+permalink: /stats
+---
+
+
+<p>
+Liczba szczepionek
+</p>
+<table id="" class="stripe">
+    <thead>
+        <tr>
+            <th>Województwo</th>
+            <th>Pfizer</th>
+            <th>Moderna</th>
+            <th>J&amp;J</th>
+            <th>AstraZeneca</th>
+            <th>Suma</th>
+        </tr>
+    </thead>
+    <tbody>
+{% include stats/count/dolnoslaskie.html %}
+{% include stats/count/kujawsko_pomorskie.html %}
+{% include stats/count/lubelskie.html %}
+{% include stats/count/lubuskie.html %}
+{% include stats/count/lodzkie.html %}
+{% include stats/count/malopolskie.html %}
+{% include stats/count/mazowieckie.html %}
+{% include stats/count/opolskie.html %}
+{% include stats/count/podkarpackie.html %}
+{% include stats/count/podlaskie.html %}
+{% include stats/count/pomorskie.html %}
+{% include stats/count/slaskie.html %}
+{% include stats/count/swietokrzyskie.html %}
+{% include stats/count/warminsko_mazurskie.html %}
+{% include stats/count/wielkopolskie.html %}
+{% include stats/count/zachodniopomorskie.html %}
+    </tbody>
+
+</table>
+
+Najwcześniejszy duży termin (dla &gt; 10 slotów danego dniai w placówce).
+<table id="" class="stripe">
+    <thead>
+        <tr>
+            <th>Województwo</th>
+            <th>Pfizer</th>
+            <th>Moderna</th>
+            <th>J&amp;J</th>
+            <th>AstraZeneca</th>
+        </tr>
+    </thead>
+    <tbody>
+{% include stats/date/dolnoslaskie.html %}
+{% include stats/date/kujawsko_pomorskie.html %}
+{% include stats/date/lubelskie.html %}
+{% include stats/date/lubuskie.html %}
+{% include stats/date/lodzkie.html %}
+{% include stats/date/malopolskie.html %}
+{% include stats/date/mazowieckie.html %}
+{% include stats/date/opolskie.html %}
+{% include stats/date/podkarpackie.html %}
+{% include stats/date/podlaskie.html %}
+{% include stats/date/pomorskie.html %}
+{% include stats/date/slaskie.html %}
+{% include stats/date/swietokrzyskie.html %}
+{% include stats/date/warminsko_mazurskie.html %}
+{% include stats/date/wielkopolskie.html %}
+{% include stats/date/zachodniopomorskie.html %}
+    </tbody>
+
+</table>
