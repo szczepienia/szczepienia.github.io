@@ -321,7 +321,58 @@ layout: default
                     zoom: 8
                 })
             });
-        }
+         }
+         $('a.data-989').click(function(e) {
+             e.preventDefault();
+             const tr = $(e.target).closest("tr");
+             const slotTime = tr.data('searchSlotTime');
+             const dateFrom = tr.data('searchDateFrom');
+             const dateTo = tr.data('searchDateTo');
+             const voivodeship = tr.data('searchVoivodeship');
+             const city = tr.data('searchCity');
+             const vaccines = tr.data('searchVaccines');
+             const hourFrom = tr.data('searchHourFrom');
+             const hourTo = tr.data('searchHourTo');
+
+
+             const startHour = Number.parseInt(hourFrom.split(":")[0]);
+             const endHour = Number.parseInt(hourTo.split(":")[0]);
+             if (startHour >= 0 && startHour < 8 && hourTo >= 21) {
+                hours = "Wszystkie";
+             } else if (startHour >= 8 && startHour < 12 && hourTo <= 12) {
+                 hours = "8:00 - 12:00";
+             } else if (startHour >= 12 && startHour < 16 && hourTo <= 16) {
+                 hours = "12:00 - 16:00";
+             } else if (startHour >= 16 && startHour < 20 && hourTo <= 20) {
+                 hours = "16:00 - 20:00";
+             } else if (startHour >= 20 && startHour <= 23) {
+                 hours = "20:00 - 23:59";
+             } else {
+                 hours = "";
+             }
+
+             let descr = `Województwo: <strong>${voivodeship}</strong> <br/>`;
+             if (city) {
+                 descr += `Miejscowość: <strong>${city}</strong> <br/>`;
+             } else {
+                 descr += `Miejscowość: brak (tak, nie wybierać miasta) <br/>`;
+             }
+             descr +=
+                 `
+                 Data wizyty od: <strong>${dateFrom}</strong> <br/>
+                 Data wizyty do: <strong>${dateTo}</strong> <br/>
+                 Typ szczepionki: <strong>${vaccines}</strong> <br/>
+                 Preferowane godziny: <strong>${hours}</strong> <span class="real-hours">(${hourFrom} - ${hourTo})</span> <br/>
+                 `;
+             $('#dialogText').html(descr);
+             $("#dialog").dialog({
+                 classes: {
+                     "ui-dialog": "highlight"
+                 },
+                 width: 500
+             });
+             return false;
+        });
     } );
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
@@ -370,7 +421,11 @@ layout: default
 </article>
 
 <p>
-Jeśli masz jakieś uwagi np. widzisz zły numer telefonu do danego punktu (ale błagam, nie prośby o dodanie miast, niestety nadal nie mogę więcej dodać ☹) to <a href="https://github.com/szczepienia/szczepienia.github.io/issues">zgłoś</a> (lub daj znać na <a href="https://twitter.com/krzyk">twitterze</a> lub na wykopie).
+Jeśli masz jakieś uwagi np. widzisz zły numer telefonu do danego punktu to zgłoś klikającna link "Błąd?" przy numerach telefony - w ten sposób będę dokładnie wiedział którego punkty dotyczy zgłoszenie..
 </p>
 
 <img src="https://t1.kirela.com/pixel.php?{{ page.url }}"/>
+
+<div id="dialog" title="Szczegóły dla infolinii 989">
+    <div id="dialogText"></div>
+</div>
