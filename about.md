@@ -29,3 +29,4 @@ Pisali o nas:
 * [Fakt](https://www.fakt.pl/pieniadze/koronawirus-jak-wybrac-szczepionke-na-covid-19-jak-przyspieszyc-szczepienie/ebcgm8j)
 * [Dziennik Zachodni](https://dziennikzachodni.pl/szczepienia-w-woj-slaskim-tu-sa-wolne-terminy-na-szczepienia-przeciwko-covid19/ar/c14-15603293)
 * [vibes](https://vibez.pl/wydarzenia/nie-wiesz-gdzie-i-jak-sie-szczepic-tutaj-znajdziesz-wszystkie-informacje-6636445091302208a)
+* [rynekzdrowia.pl](https://www.rynekzdrowia.pl/Serwis-Szczepienia/Sposob-na-szybki-termin-szczepienia-przeciw-Covid-19-mapka-od-Krasnala-Halabaly-To-dziala,221542,1018.html)
