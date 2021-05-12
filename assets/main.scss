@@ -122,15 +122,11 @@ input:invalid {
 .ui-autocomplete-loading { background:url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif) no-repeat right center }
 
 .real-hours {
-    font-color: gray;
+    color: #dddddd;
 }
 
 .highlight {
     border: 1px solid red;
-}
-
-.data-989 {
-    visibility: hidden;
 }
 
 @import "minima";

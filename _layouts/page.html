@@ -326,6 +326,8 @@ layout: default
              e.preventDefault();
              const tr = $(e.target).closest("tr");
              const slotTime = tr.data('searchSlotTime');
+             const place = tr.data('place');
+
              const dateFrom = tr.data('searchDateFrom');
              const dateTo = tr.data('searchDateTo');
              const voivodeship = tr.data('searchVoivodeship');
@@ -335,27 +337,48 @@ layout: default
              const hourTo = tr.data('searchHourTo');
 
 
+             const ALL = "Wszystkie";
              const startHour = Number.parseInt(hourFrom.split(":")[0]);
              const endHour = Number.parseInt(hourTo.split(":")[0]);
-             if (startHour >= 0 && startHour < 8 && hourTo >= 21) {
-                hours = "Wszystkie";
-             } else if (startHour >= 8 && startHour < 12 && hourTo <= 12) {
-                 hours = "8:00 - 12:00";
-             } else if (startHour >= 12 && startHour < 16 && hourTo <= 16) {
-                 hours = "12:00 - 16:00";
-             } else if (startHour >= 16 && startHour < 20 && hourTo <= 20) {
-                 hours = "16:00 - 20:00";
-             } else if (startHour >= 20 && startHour <= 23) {
-                 hours = "20:00 - 23:59";
+             const slotHour = Number.parseInt(slotTime.split(":")[0]);
+             let ranges = [
+                 { from: 0, to:8 , text: ALL},
+                 { from: 8, to: 12, text: "8:00 - 12:00"},
+                 { from: 12, to: 16, text: "12:00 - 16:00"},
+                 { from: 16, to: 20, text: "16:00 - 20:00"},
+                 { from: 20, to: 24, text: "20:00 - 23:59"}
+             ];
+
+             let hours = "";
+             if (startHour == 0 && endHour == 23) {
+                 hours = ALL;
              } else {
-                 hours = "";
+                 for (const el of ranges) {
+                     if (slotHour >= el.from && slotHour < el.to) {
+                         hours = el.text;
+                     }
+                 }
              }
+
+             //if (startHour >= 0 && startHour < 8 && hourTo >= 21) {
+             //   hours = "Wszystkie";
+             //} else if (startHour >= 8 && startHour < 12 && slotTime < 12) {
+             //    hours = "8:00 - 12:00";
+             //} else if (startHour >= 12 && startHour < 16 && slotTime < 16) {
+             //    hours = "12:00 - 16:00";
+             //} else if (startHour >= 16 && startHour < 20 && slotTime < 20) {
+             //    hours = "16:00 - 20:00";
+             //} else if (startHour >= 20 && startHour <= 23) {
+             //    hours = "20:00 - 23:59";
+             //} else {
+             //    hours = "";
+             //}
 
              let descr = `Województwo: <strong>${voivodeship}</strong> <br/>`;
              if (city) {
                  descr += `Miejscowość: <strong>${city}</strong> <br/>`;
              } else {
-                 descr += `Miejscowość: brak (tak, nie wybierać miasta) <br/>`;
+                 descr += `Miejscowość: <strong>${place}</strong> (gdy nie zadziała to bez wpisywania miejscowości) <br/>`;
              }
              descr +=
                  `
