@@ -31,3 +31,4 @@ Pisali o nas:
 * [vibes](https://vibez.pl/wydarzenia/nie-wiesz-gdzie-i-jak-sie-szczepic-tutaj-znajdziesz-wszystkie-informacje-6636445091302208a)
 * [rynekzdrowia.pl](https://www.rynekzdrowia.pl/Serwis-Szczepienia/Sposob-na-szybki-termin-szczepienia-przeciw-Covid-19-mapka-od-Krasnala-Halabaly-To-dziala,221542,1018.html)
 * [Nowości Dziennik Toruński](https://nowosci.com.pl/covid19-gdzie-sa-wolne-miejsca-na-szczepienie-sprawdz-moderna-pfizer-johnson-johnson-astrazeneca/ar/c14-15605159)
+* [Gazeta Olsztyńska](https://gazetaolsztynska.pl/725726,Wolne-terminy-na-szczepienie-na-Warmii-i-Mazurach-Sprawdz-mape.html)
