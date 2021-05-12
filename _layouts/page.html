@@ -190,7 +190,7 @@ layout: default
         return earthRadiusKm * c;
     }
 
-    $(document).ready( function() {
+    function ready() {
         $("#cities").autocomplete({
             source: function(request, response) {
                 $.ajax({
@@ -322,9 +322,13 @@ layout: default
                 })
             });
          }
-         $('a.data-989').click(function(e) {
+         $('#szczepienia tbody').on('click', '.data-989', function(e) {
              e.preventDefault();
-             const tr = $(e.target).closest("tr");
+             let tr = $(e.target).closest("tr");
+             if (!tr.data('searchHourFrom')) {
+                tr = tr.prev();
+             }
+
              const slotTime = tr.data('searchSlotTime');
              const place = tr.data('place');
 
@@ -389,14 +393,16 @@ layout: default
                  `;
              $('#dialogText').html(descr);
              $("#dialog").dialog({
-                 classes: {
-                     "ui-dialog": "highlight"
-                 },
-                 width: 500
+                 modal: true,
+                 width: 380
              });
              return false;
         });
-    } );
+    };
+
+    $(document).ready(ready);
+    $(document).on('resize', ready);
+
     if (window.location.href.substr((location.href).lastIndexOf('/')) == "/).") {
         window.location.href = "/";
     }
