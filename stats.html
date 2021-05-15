@@ -34,7 +34,9 @@ permalink: /stats
 {% include stats/count/wielkopolskie.html %}
 {% include stats/count/zachodniopomorskie.html %}
     </tbody>
-
+	<tfoot align="right">
+		<tr><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+	</tfoot>
 </table>
 <br/>
 <br/>
@@ -114,7 +116,63 @@ permalink: /stats
                         targets: 5,
                         className: 'dt-body-right'
                     }
-                ]
+                ],
+                footerCallback: function (row, data, start, end, display) {
+                    var api = this.api(), data;
+
+                    // converting to interger to find total
+                    var intVal = function (i) {
+                        return typeof i === 'string' ?
+                        i.replace(/[\$,]/g, '')*1 :
+                        typeof i === 'number' ?
+                        i : 0;
+                    };
+
+                    // computing column Total of the complete result 
+                    var pTotal = api
+                    .column(1)
+                    .data()
+                    .reduce( function (a, b) {
+                        return intVal(a) + intVal(b);
+                    }, 0 );
+
+                    var mTotal = api
+                    .column( 2 )
+                    .data()
+                    .reduce( function (a, b) {
+                        return intVal(a) + intVal(b);
+                    }, 0 );
+
+                    var jTotal = api
+                    .column( 3 )
+                    .data()
+                    .reduce( function (a, b) {
+                        return intVal(a) + intVal(b);
+                    }, 0 );
+
+                    var aTotal = api
+                    .column( 4 )
+                    .data()
+                    .reduce( function (a, b) {
+                        return intVal(a) + intVal(b);
+                    }, 0 );
+
+                    var tTotal = api
+                    .column( 5 )
+                    .data()
+                    .reduce( function (a, b) {
+                        return intVal(a) + intVal(b);
+                    }, 0 );
+
+
+                    // Update footer by showing the total with the reference of the column index 
+                    $(api.column(0).footer()).html('Suma');
+                    $(api.column(1).footer()).html(pTotal);
+                    $(api.column(2).footer()).html(mTotal);
+                    $(api.column(3).footer()).html(jTotal);
+                    $(api.column(4).footer()).html(aTotal);
+                    $(api.column(5).footer()).html(tTotal);
+                }
             }
         );
         $('#table-date').DataTable(
