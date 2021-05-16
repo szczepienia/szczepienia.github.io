@@ -1,0 +1,513 @@
+2021-05-16 12:07:52,073 INFO c.k.s.Main Options used: com.kirela.szczepimy.Options@1a6d8329 
+2021-05-16 12:07:52,106 WARN c.k.s.GminaFinder Problem with city Rogowo, terc1=0412032, terc2=0419052 (same powiat) 
+2021-05-16 12:07:52,111 WARN c.k.s.GminaFinder Problem with city Adamów, terc1=0611032, terc2=0620012 (same powiat) 
+2021-05-16 12:07:52,117 WARN c.k.s.GminaFinder Problem with city Bolesław, terc1=1204012, terc2=1212032 (same powiat) 
+2021-05-16 12:07:52,118 WARN c.k.s.GminaFinder Problem with city Spytkowice, terc1=1211132, terc2=1218062 (same powiat) 
+2021-05-16 12:07:52,119 WARN c.k.s.GminaFinder Problem with city Radzanów, terc1=1401032, terc2=1413042 (same powiat) 
+2021-05-16 12:07:52,121 WARN c.k.s.GminaFinder Problem with city Bielany, terc1=1429022, terc2=1465048 (same powiat) 
+2021-05-16 12:07:52,122 WARN c.k.s.GminaFinder Problem with city Czarna, terc1=1801032, terc2=1803032 (same powiat) 
+2021-05-16 12:07:52,123 WARN c.k.s.GminaFinder Problem with city Czarna, terc1=1801032, terc2=1810032 (same powiat) 
+2021-05-16 12:07:52,129 WARN c.k.s.GminaFinder Problem with city Świętajno, terc1=2813052, terc2=2817072 (same powiat) 
+2021-05-16 12:07:53,361 INFO STATS Preparation time: 1339 
+2021-05-16 12:07:53,367 INFO c.k.s.Main Processing SearchCity[name=null, voivodeship=WIELKOPOLSKIE, days=10, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:07:53,371 INFO c.k.s.Main city=null, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:53,371 INFO c.k.s.Main time since last search = 1621159673371 
+2021-05-16 12:07:54,700 INFO STATS time per search: 1299, size: 22731 
+2021-05-16 12:07:54,700 INFO STATS total search time: 1300 (retries = 0) 
+2021-05-16 12:07:54,731 INFO c.k.s.Main Found for null, [cov19.astra_zeneca]: 58 slots, nextDate = 2021-05-18T09:51 
+2021-05-16 12:07:54,733 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:54,733 INFO c.k.s.Main time since last search = 1362 
+2021-05-16 12:07:55,716 INFO STATS time per search: 983, size: 13564 
+2021-05-16 12:07:55,716 INFO STATS total search time: 983 (retries = 0) 
+2021-05-16 12:07:55,720 INFO c.k.s.Main Found for null, [cov19.pfizer]: 36 slots, nextDate = 2021-06-04T11:56 
+2021-05-16 12:07:55,720 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=1, start=2021-06-04T11:56, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:55,720 INFO c.k.s.Main time since last search = 987 
+2021-05-16 12:07:55,790 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:07:55,790 WARN c.k.s.Main retrying 
+2021-05-16 12:07:56,953 INFO STATS time per search: 811, size: 11680 
+2021-05-16 12:07:56,953 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:07:56,954 INFO STATS total search time: 1220 (retries = 1) 
+2021-05-16 12:07:56,956 INFO c.k.s.Main Found for null, [cov19.pfizer]: 32 slots, nextDate = 2021-06-04T12:31 
+2021-05-16 12:07:56,957 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=2, start=2021-06-04T12:31, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:56,957 INFO c.k.s.Main time since last search = 1224 
+2021-05-16 12:07:57,014 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:07:57,014 WARN c.k.s.Main retrying 
+2021-05-16 12:07:58,341 INFO STATS time per search: 830, size: 9497 
+2021-05-16 12:07:58,341 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:07:58,341 INFO STATS total search time: 1384 (retries = 1) 
+2021-05-16 12:07:58,344 INFO c.k.s.Main Found for null, [cov19.pfizer]: 26 slots, nextDate = 2021-06-04T12:51 
+2021-05-16 12:07:58,344 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=3, start=2021-06-04T12:51, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:58,344 INFO c.k.s.Main time since last search = 1387 
+2021-05-16 12:07:58,401 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:07:58,401 WARN c.k.s.Main retrying 
+2021-05-16 12:07:59,699 INFO STATS time per search: 828, size: 8842 
+2021-05-16 12:07:59,699 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:07:59,699 INFO STATS total search time: 1355 (retries = 1) 
+2021-05-16 12:07:59,702 INFO c.k.s.Main Found for null, [cov19.pfizer]: 24 slots, nextDate = 2021-06-04T13:11 
+2021-05-16 12:07:59,702 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=4, start=2021-06-04T13:11, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:07:59,702 INFO c.k.s.Main time since last search = 1358 
+2021-05-16 12:07:59,759 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:07:59,759 WARN c.k.s.Main retrying 
+2021-05-16 12:08:01,105 INFO STATS time per search: 824, size: 8205 
+2021-05-16 12:08:01,105 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:01,105 INFO STATS total search time: 1403 (retries = 1) 
+2021-05-16 12:08:01,107 INFO c.k.s.Main Found for null, [cov19.pfizer]: 22 slots, nextDate = 2021-06-04T13:31 
+2021-05-16 12:08:01,107 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=5, start=2021-06-04T13:31, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:01,107 INFO c.k.s.Main time since last search = 1405 
+2021-05-16 12:08:01,164 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:01,164 WARN c.k.s.Main retrying 
+2021-05-16 12:08:02,436 INFO STATS time per search: 822, size: 9228 
+2021-05-16 12:08:02,436 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:02,436 INFO STATS total search time: 1329 (retries = 1) 
+2021-05-16 12:08:02,438 INFO c.k.s.Main Found for null, [cov19.pfizer]: 25 slots, nextDate = 2021-06-04T13:51 
+2021-05-16 12:08:02,438 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=6, start=2021-06-04T13:51, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:02,438 INFO c.k.s.Main time since last search = 1331 
+2021-05-16 12:08:02,494 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:02,494 WARN c.k.s.Main retrying 
+2021-05-16 12:08:03,972 INFO STATS time per search: 979, size: 10145 
+2021-05-16 12:08:03,972 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:03,972 INFO STATS total search time: 1533 (retries = 1) 
+2021-05-16 12:08:03,974 INFO c.k.s.Main Found for null, [cov19.pfizer]: 27 slots, nextDate = 2021-06-04T14:26 
+2021-05-16 12:08:03,975 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=7, start=2021-06-04T14:26, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:03,975 INFO c.k.s.Main time since last search = 1537 
+2021-05-16 12:08:04,032 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:04,032 WARN c.k.s.Main retrying 
+2021-05-16 12:08:05,604 INFO STATS time per search: 986, size: 7054 
+2021-05-16 12:08:05,604 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:05,604 INFO STATS total search time: 1629 (retries = 1) 
+2021-05-16 12:08:05,606 INFO c.k.s.Main Found for null, [cov19.pfizer]: 19 slots, nextDate = 2021-06-04T14:46 
+2021-05-16 12:08:05,606 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=8, start=2021-06-04T14:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:05,606 INFO c.k.s.Main time since last search = 1631 
+2021-05-16 12:08:05,665 INFO STATS time per search: 59, size: 180 
+2021-05-16 12:08:05,665 WARN c.k.s.Main retrying 
+2021-05-16 12:08:06,853 INFO STATS time per search: 867, size: 8493 
+2021-05-16 12:08:06,853 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:06,854 INFO STATS total search time: 1247 (retries = 1) 
+2021-05-16 12:08:06,855 INFO c.k.s.Main Found for null, [cov19.pfizer]: 23 slots, nextDate = 2021-06-04T15:16 
+2021-05-16 12:08:06,856 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=9, start=2021-06-04T15:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:06,856 INFO c.k.s.Main time since last search = 1250 
+2021-05-16 12:08:06,915 INFO STATS time per search: 59, size: 180 
+2021-05-16 12:08:06,915 WARN c.k.s.Main retrying 
+2021-05-16 12:08:08,181 INFO STATS time per search: 792, size: 8132 
+2021-05-16 12:08:08,182 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:08,182 INFO STATS total search time: 1326 (retries = 1) 
+2021-05-16 12:08:08,183 INFO c.k.s.Main Found for null, [cov19.pfizer]: 22 slots, nextDate = 2021-06-04T15:46 
+2021-05-16 12:08:08,184 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=10, start=2021-06-04T15:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:08,184 INFO c.k.s.Main time since last search = 1328 
+2021-05-16 12:08:08,238 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:08,239 WARN c.k.s.Main retrying 
+2021-05-16 12:08:09,371 INFO STATS time per search: 715, size: 10821 
+2021-05-16 12:08:09,371 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:09,372 INFO STATS total search time: 1188 (retries = 1) 
+2021-05-16 12:08:09,374 INFO c.k.s.Main Found for null, [cov19.pfizer]: 29 slots, nextDate = 2021-06-04T16:46 
+2021-05-16 12:08:09,375 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=11, start=2021-06-04T16:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:09,375 INFO c.k.s.Main time since last search = 1191 
+2021-05-16 12:08:09,431 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:09,431 WARN c.k.s.Main retrying 
+2021-05-16 12:08:10,635 INFO STATS time per search: 838, size: 8210 
+2021-05-16 12:08:10,635 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:10,635 INFO STATS total search time: 1260 (retries = 1) 
+2021-05-16 12:08:10,637 INFO c.k.s.Main Found for null, [cov19.pfizer]: 22 slots, nextDate = 2021-06-04T17:16 
+2021-05-16 12:08:10,637 INFO c.k.s.Main city=null, vaccine=[cov19.pfizer]: try=12, start=2021-06-04T17:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:10,637 INFO c.k.s.Main time since last search = 1262 
+2021-05-16 12:08:10,695 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:10,696 WARN c.k.s.Main retrying 
+2021-05-16 12:08:11,951 INFO STATS time per search: 660, size: 7518 
+2021-05-16 12:08:11,951 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:11,952 INFO STATS total search time: 1314 (retries = 1) 
+2021-05-16 12:08:11,953 INFO c.k.s.Main Found for null, [cov19.pfizer]: 20 slots, nextDate = 2021-06-04T17:46 
+2021-05-16 12:08:11,953 INFO c.k.s.Main More data exists for WIELKOPOLSKIE, null, [cov19.pfizer], last startDate=2021-06-04T17:46 
+2021-05-16 12:08:11,953 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:11,953 INFO c.k.s.Main time since last search = 1316 
+2021-05-16 12:08:12,008 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:12,009 WARN c.k.s.Main retrying 
+2021-05-16 12:08:13,455 INFO STATS time per search: 872, size: 6201 
+2021-05-16 12:08:13,455 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:13,455 INFO STATS total search time: 1502 (retries = 1) 
+2021-05-16 12:08:13,457 INFO c.k.s.Main Found for null, [cov19.moderna]: 18 slots, nextDate = 2021-05-24T10:16 
+2021-05-16 12:08:13,457 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=1, start=2021-05-24T10:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:13,457 INFO c.k.s.Main time since last search = 1504 
+2021-05-16 12:08:13,514 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:13,514 WARN c.k.s.Main retrying 
+2021-05-16 12:08:14,724 INFO STATS time per search: 771, size: 3520 
+2021-05-16 12:08:14,724 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:14,724 INFO STATS total search time: 1265 (retries = 1) 
+2021-05-16 12:08:14,725 INFO c.k.s.Main Found for null, [cov19.moderna]: 10 slots, nextDate = 2021-05-24T10:46 
+2021-05-16 12:08:14,725 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=2, start=2021-05-24T10:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:14,725 INFO c.k.s.Main time since last search = 1268 
+2021-05-16 12:08:14,782 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:14,782 WARN c.k.s.Main retrying 
+2021-05-16 12:08:15,863 INFO STATS time per search: 636, size: 2212 
+2021-05-16 12:08:15,863 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:15,863 INFO STATS total search time: 1137 (retries = 1) 
+2021-05-16 12:08:15,864 INFO c.k.s.Main Found for null, [cov19.moderna]: 6 slots, nextDate = 2021-05-24T11:16 
+2021-05-16 12:08:15,864 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=3, start=2021-05-24T11:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:15,864 INFO c.k.s.Main time since last search = 1138 
+2021-05-16 12:08:15,920 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:15,921 WARN c.k.s.Main retrying 
+2021-05-16 12:08:17,025 INFO STATS time per search: 645, size: 4414 
+2021-05-16 12:08:17,025 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:17,025 INFO STATS total search time: 1161 (retries = 1) 
+2021-05-16 12:08:17,026 INFO c.k.s.Main Found for null, [cov19.moderna]: 12 slots, nextDate = 2021-05-24T12:16 
+2021-05-16 12:08:17,026 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=4, start=2021-05-24T12:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:17,026 INFO c.k.s.Main time since last search = 1162 
+2021-05-16 12:08:17,089 INFO STATS time per search: 62, size: 180 
+2021-05-16 12:08:17,089 WARN c.k.s.Main retrying 
+2021-05-16 12:08:18,462 INFO STATS time per search: 828, size: 11861 
+2021-05-16 12:08:18,462 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:18,462 INFO STATS total search time: 1435 (retries = 1) 
+2021-05-16 12:08:18,465 INFO c.k.s.Main Found for null, [cov19.moderna]: 33 slots, nextDate = 2021-05-27T13:46 
+2021-05-16 12:08:18,465 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=5, start=2021-05-27T13:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:18,465 INFO c.k.s.Main time since last search = 1439 
+2021-05-16 12:08:18,521 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:18,521 WARN c.k.s.Main retrying 
+2021-05-16 12:08:19,827 INFO STATS time per search: 841, size: 12168 
+2021-05-16 12:08:19,828 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:19,828 INFO STATS total search time: 1363 (retries = 1) 
+2021-05-16 12:08:19,830 INFO c.k.s.Main Found for null, [cov19.moderna]: 34 slots, nextDate = 2021-05-27T15:16 
+2021-05-16 12:08:19,831 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=6, start=2021-05-27T15:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:19,831 INFO c.k.s.Main time since last search = 1366 
+2021-05-16 12:08:19,888 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:19,888 WARN c.k.s.Main retrying 
+2021-05-16 12:08:21,160 INFO STATS time per search: 863, size: 23766 
+2021-05-16 12:08:21,160 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:21,160 INFO STATS total search time: 1329 (retries = 1) 
+2021-05-16 12:08:21,164 INFO c.k.s.Main Found for null, [cov19.moderna]: 68 slots, nextDate = 2021-05-29T16:51 
+2021-05-16 12:08:21,164 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=7, start=2021-05-29T16:51, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:21,164 INFO c.k.s.Main time since last search = 1333 
+2021-05-16 12:08:21,236 INFO STATS time per search: 72, size: 180 
+2021-05-16 12:08:21,236 WARN c.k.s.Main retrying 
+2021-05-16 12:08:22,541 INFO STATS time per search: 713, size: 4174 
+2021-05-16 12:08:22,542 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:22,542 INFO STATS total search time: 1378 (retries = 1) 
+2021-05-16 12:08:22,543 INFO c.k.s.Main Found for null, [cov19.moderna]: 12 slots, nextDate = 2021-05-29T18:16 
+2021-05-16 12:08:22,543 INFO c.k.s.Main city=null, vaccine=[cov19.moderna]: try=8, start=2021-05-29T18:16, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:22,543 INFO c.k.s.Main time since last search = 1379 
+2021-05-16 12:08:22,600 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:22,600 WARN c.k.s.Main retrying 
+2021-05-16 12:08:23,137 INFO STATS time per search: 66, size: 11 
+2021-05-16 12:08:23,137 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:23,137 INFO STATS total search time: 594 (retries = 1) 
+2021-05-16 12:08:23,137 INFO c.k.s.Main Found for null, [cov19.moderna]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:23,137 INFO c.k.s.Main city=null, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:23,137 INFO c.k.s.Main time since last search = 594 
+2021-05-16 12:08:23,600 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:23,600 WARN c.k.s.Main retrying 
+2021-05-16 12:08:23,960 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:23,960 WARN c.k.s.Main retrying 
+2021-05-16 12:08:25,088 INFO STATS time per search: 821, size: 372 
+2021-05-16 12:08:25,088 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:25,088 INFO STATS total search time: 1544 (retries = 2) 
+2021-05-16 12:08:25,089 INFO c.k.s.Main Found for null, [cov19.johnson_and_johnson]: 1 slots, nextDate = 2021-05-30T10:11 
+2021-05-16 12:08:25,089 INFO c.k.s.Main city=null, vaccine=[cov19.johnson_and_johnson]: try=1, start=2021-05-30T10:11, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:25,089 INFO c.k.s.Main time since last search = 1546 
+2021-05-16 12:08:25,145 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:25,145 WARN c.k.s.Main retrying 
+2021-05-16 12:08:25,691 INFO STATS time per search: 67, size: 11 
+2021-05-16 12:08:25,691 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:25,691 INFO STATS total search time: 602 (retries = 1) 
+2021-05-16 12:08:25,691 INFO c.k.s.Main Found for null, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:25,691 INFO c.k.s.Main Processing SearchCity[name=Poznań, voivodeship=WIELKOPOLSKIE, days=1, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:08:25,692 INFO c.k.s.Main city=Poznań, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:25,692 INFO c.k.s.Main time since last search = 603 
+2021-05-16 12:08:26,145 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:26,145 WARN c.k.s.Main retrying 
+2021-05-16 12:08:26,507 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:26,507 WARN c.k.s.Main retrying 
+2021-05-16 12:08:27,316 INFO STATS time per search: 445, size: 31893 
+2021-05-16 12:08:27,316 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:27,317 INFO STATS total search time: 1228 (retries = 2) 
+2021-05-16 12:08:27,320 INFO c.k.s.Main Found for Poznań, [cov19.astra_zeneca]: 91 slots, nextDate = 2021-05-26T14:41 
+2021-05-16 12:08:27,321 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:27,321 INFO c.k.s.Main time since last search = 1232 
+2021-05-16 12:08:27,378 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:27,378 WARN c.k.s.Main retrying 
+2021-05-16 12:08:27,876 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:27,876 WARN c.k.s.Main retrying 
+2021-05-16 12:08:28,650 INFO STATS time per search: 402, size: 6238 
+2021-05-16 12:08:28,650 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:28,650 INFO STATS total search time: 1329 (retries = 2) 
+2021-05-16 12:08:28,651 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 16 slots, nextDate = 2021-06-13T11:01 
+2021-05-16 12:08:28,652 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=1, start=2021-06-13T11:01, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:28,652 INFO c.k.s.Main time since last search = 1331 
+2021-05-16 12:08:28,710 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:28,710 WARN c.k.s.Main retrying 
+2021-05-16 12:08:29,228 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:29,228 WARN c.k.s.Main retrying 
+2021-05-16 12:08:30,289 INFO STATS time per search: 665, size: 3476 
+2021-05-16 12:08:30,289 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:30,289 INFO STATS total search time: 1637 (retries = 2) 
+2021-05-16 12:08:30,289 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 10 slots, nextDate = 2021-06-13T12:11 
+2021-05-16 12:08:30,290 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=2, start=2021-06-13T12:11, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:30,290 INFO c.k.s.Main time since last search = 1638 
+2021-05-16 12:08:30,347 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:30,347 WARN c.k.s.Main retrying 
+2021-05-16 12:08:31,058 INFO STATS time per search: 359, size: 3225 
+2021-05-16 12:08:31,059 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:31,059 INFO STATS total search time: 769 (retries = 1) 
+2021-05-16 12:08:31,059 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 9 slots, nextDate = 2021-06-13T13:01 
+2021-05-16 12:08:31,059 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=3, start=2021-06-13T13:01, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:31,059 INFO c.k.s.Main time since last search = 769 
+2021-05-16 12:08:31,348 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:31,348 WARN c.k.s.Main retrying 
+2021-05-16 12:08:32,390 INFO STATS time per search: 589, size: 3482 
+2021-05-16 12:08:32,390 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:32,391 INFO STATS total search time: 1100 (retries = 1) 
+2021-05-16 12:08:32,391 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 10 slots, nextDate = 2021-06-13T13:46 
+2021-05-16 12:08:32,392 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=4, start=2021-06-13T13:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:32,392 INFO c.k.s.Main time since last search = 1102 
+2021-05-16 12:08:32,447 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:32,448 WARN c.k.s.Main retrying 
+2021-05-16 12:08:32,825 INFO STATS time per search: 58, size: 180 
+2021-05-16 12:08:32,825 WARN c.k.s.Main retrying 
+2021-05-16 12:08:33,861 INFO STATS time per search: 498, size: 3875 
+2021-05-16 12:08:33,861 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:33,861 INFO STATS total search time: 1469 (retries = 2) 
+2021-05-16 12:08:33,862 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 11 slots, nextDate = 2021-06-13T14:46 
+2021-05-16 12:08:33,862 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=5, start=2021-06-13T14:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:33,862 INFO c.k.s.Main time since last search = 1470 
+2021-05-16 12:08:33,918 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:33,918 WARN c.k.s.Main retrying 
+2021-05-16 12:08:35,078 INFO STATS time per search: 563, size: 4459 
+2021-05-16 12:08:35,078 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:35,078 INFO STATS total search time: 1216 (retries = 1) 
+2021-05-16 12:08:35,079 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 13 slots, nextDate = 2021-06-13T15:41 
+2021-05-16 12:08:35,079 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=6, start=2021-06-13T15:41, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:35,079 INFO c.k.s.Main time since last search = 1217 
+2021-05-16 12:08:35,136 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:35,136 WARN c.k.s.Main retrying 
+2021-05-16 12:08:35,545 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:35,545 WARN c.k.s.Main retrying 
+2021-05-16 12:08:36,411 INFO STATS time per search: 525, size: 3153 
+2021-05-16 12:08:36,411 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:36,411 INFO STATS total search time: 1332 (retries = 2) 
+2021-05-16 12:08:36,412 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 9 slots, nextDate = 2021-06-13T16:31 
+2021-05-16 12:08:36,412 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=7, start=2021-06-13T16:31, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:36,412 INFO c.k.s.Main time since last search = 1333 
+2021-05-16 12:08:36,469 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:36,469 WARN c.k.s.Main retrying 
+2021-05-16 12:08:37,335 INFO STATS time per search: 382, size: 2902 
+2021-05-16 12:08:37,336 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:37,336 INFO STATS total search time: 924 (retries = 1) 
+2021-05-16 12:08:37,336 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 8 slots, nextDate = 2021-06-13T17:31 
+2021-05-16 12:08:37,337 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=8, start=2021-06-13T17:31, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:37,337 INFO c.k.s.Main time since last search = 925 
+2021-05-16 12:08:37,469 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:37,469 WARN c.k.s.Main retrying 
+2021-05-16 12:08:37,985 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:37,985 WARN c.k.s.Main retrying 
+2021-05-16 12:08:38,889 INFO STATS time per search: 527, size: 2649 
+2021-05-16 12:08:38,890 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:38,890 INFO STATS total search time: 1478 (retries = 2) 
+2021-05-16 12:08:38,890 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 7 slots, nextDate = 2021-06-13T18:46 
+2021-05-16 12:08:38,890 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=9, start=2021-06-13T18:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:38,890 INFO c.k.s.Main time since last search = 1478 
+2021-05-16 12:08:38,946 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:38,947 WARN c.k.s.Main retrying 
+2021-05-16 12:08:39,486 INFO STATS time per search: 201, size: 180 
+2021-05-16 12:08:39,486 WARN c.k.s.Main retrying 
+2021-05-16 12:08:40,323 INFO STATS time per search: 461, size: 2252 
+2021-05-16 12:08:40,323 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:40,323 INFO STATS total search time: 1432 (retries = 2) 
+2021-05-16 12:08:40,324 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 6 slots, nextDate = 2021-06-13T19:46 
+2021-05-16 12:08:40,324 INFO c.k.s.Main city=Poznań, vaccine=[cov19.pfizer]: try=10, start=2021-06-13T19:46, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:40,324 INFO c.k.s.Main time since last search = 1434 
+2021-05-16 12:08:40,382 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:40,382 WARN c.k.s.Main retrying 
+2021-05-16 12:08:41,031 INFO STATS time per search: 65, size: 11 
+2021-05-16 12:08:41,031 ERROR c.k.s.Main Retries count = 1 
+2021-05-16 12:08:41,031 INFO STATS total search time: 706 (retries = 1) 
+2021-05-16 12:08:41,031 INFO c.k.s.Main Found for Poznań, [cov19.pfizer]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:41,031 INFO c.k.s.Main city=Poznań, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:41,031 INFO c.k.s.Main time since last search = 707 
+2021-05-16 12:08:41,382 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:41,382 WARN c.k.s.Main retrying 
+2021-05-16 12:08:41,834 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:41,834 WARN c.k.s.Main retrying 
+2021-05-16 12:08:42,261 INFO STATS time per search: 68, size: 11 
+2021-05-16 12:08:42,261 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:42,261 INFO STATS total search time: 936 (retries = 2) 
+2021-05-16 12:08:42,261 INFO c.k.s.Main Found for Poznań, [cov19.moderna]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:42,261 INFO c.k.s.Main city=Poznań, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:42,261 INFO c.k.s.Main time since last search = 936 
+2021-05-16 12:08:42,380 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:42,380 WARN c.k.s.Main retrying 
+2021-05-16 12:08:42,957 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:42,957 WARN c.k.s.Main retrying 
+2021-05-16 12:08:43,354 INFO STATS time per search: 65, size: 11 
+2021-05-16 12:08:43,354 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:43,354 INFO STATS total search time: 1028 (retries = 2) 
+2021-05-16 12:08:43,354 INFO c.k.s.Main Found for Poznań, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:43,354 INFO c.k.s.Main Processing SearchCity[name=Konin, voivodeship=WIELKOPOLSKIE, days=1, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:08:43,355 INFO c.k.s.Main city=Konin, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:43,355 INFO c.k.s.Main time since last search = 1029 
+2021-05-16 12:08:43,411 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:43,411 WARN c.k.s.Main retrying 
+2021-05-16 12:08:43,824 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:43,824 WARN c.k.s.Main retrying 
+2021-05-16 12:08:44,614 INFO STATS time per search: 262, size: 10942 
+2021-05-16 12:08:44,614 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:44,614 INFO STATS total search time: 1259 (retries = 2) 
+2021-05-16 12:08:44,615 INFO c.k.s.Main Found for Konin, [cov19.astra_zeneca]: 32 slots, nextDate = 2021-05-30T19:01 
+2021-05-16 12:08:44,616 INFO c.k.s.Main city=Konin, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:44,616 INFO c.k.s.Main time since last search = 1261 
+2021-05-16 12:08:44,672 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:44,672 WARN c.k.s.Main retrying 
+2021-05-16 12:08:45,107 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:45,107 WARN c.k.s.Main retrying 
+2021-05-16 12:08:45,956 INFO STATS time per search: 406, size: 14169 
+2021-05-16 12:08:45,956 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:45,956 INFO STATS total search time: 1340 (retries = 2) 
+2021-05-16 12:08:45,957 INFO c.k.s.Main Found for Konin, [cov19.pfizer]: 44 slots, nextDate = 2021-06-12T10:56 
+2021-05-16 12:08:45,957 INFO c.k.s.Main city=Konin, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:45,957 INFO c.k.s.Main time since last search = 1341 
+2021-05-16 12:08:46,013 INFO STATS time per search: 55, size: 180 
+2021-05-16 12:08:46,013 WARN c.k.s.Main retrying 
+2021-05-16 12:08:46,567 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:46,567 WARN c.k.s.Main retrying 
+2021-05-16 12:08:47,101 INFO STATS time per search: 174, size: 5980 
+2021-05-16 12:08:47,101 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:47,101 INFO STATS total search time: 1143 (retries = 2) 
+2021-05-16 12:08:47,102 INFO c.k.s.Main Found for Konin, [cov19.moderna]: 18 slots, nextDate = 2021-05-25T12:01 
+2021-05-16 12:08:47,102 INFO c.k.s.Main city=Konin, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:47,102 INFO c.k.s.Main time since last search = 1145 
+2021-05-16 12:08:47,158 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:47,158 WARN c.k.s.Main retrying 
+2021-05-16 12:08:47,609 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:47,609 WARN c.k.s.Main retrying 
+2021-05-16 12:08:48,119 INFO STATS time per search: 64, size: 11 
+2021-05-16 12:08:48,119 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:48,119 INFO STATS total search time: 1017 (retries = 2) 
+2021-05-16 12:08:48,119 INFO c.k.s.Main Found for Konin, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:48,120 INFO c.k.s.Main Processing SearchCity[name=Gniezno, voivodeship=WIELKOPOLSKIE, days=1, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:08:48,120 INFO c.k.s.Main city=Gniezno, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:48,120 INFO c.k.s.Main time since last search = 1018 
+2021-05-16 12:08:48,176 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:48,176 WARN c.k.s.Main retrying 
+2021-05-16 12:08:48,567 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:48,567 WARN c.k.s.Main retrying 
+2021-05-16 12:08:48,930 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:48,930 WARN c.k.s.Main retrying 
+2021-05-16 12:08:49,489 INFO STATS time per search: 171, size: 21187 
+2021-05-16 12:08:49,490 ERROR c.k.s.Main Retries count = 3 
+2021-05-16 12:08:49,490 INFO STATS total search time: 1370 (retries = 3) 
+2021-05-16 12:08:49,491 INFO c.k.s.Main Found for Gniezno, [cov19.astra_zeneca]: 57 slots, nextDate = 2021-05-25T14:01 
+2021-05-16 12:08:49,491 INFO c.k.s.Main city=Gniezno, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:49,491 INFO c.k.s.Main time since last search = 1371 
+2021-05-16 12:08:49,548 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:49,548 WARN c.k.s.Main retrying 
+2021-05-16 12:08:50,120 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:50,120 WARN c.k.s.Main retrying 
+2021-05-16 12:08:50,641 INFO STATS time per search: 112, size: 12477 
+2021-05-16 12:08:50,641 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:50,641 INFO STATS total search time: 1150 (retries = 2) 
+2021-05-16 12:08:50,642 INFO c.k.s.Main Found for Gniezno, [cov19.pfizer]: 33 slots, nextDate = 2021-06-04T11:56 
+2021-05-16 12:08:50,642 INFO c.k.s.Main city=Gniezno, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:50,643 INFO c.k.s.Main time since last search = 1152 
+2021-05-16 12:08:50,699 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:50,699 WARN c.k.s.Main retrying 
+2021-05-16 12:08:51,239 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:51,239 WARN c.k.s.Main retrying 
+2021-05-16 12:08:51,839 INFO STATS time per search: 166, size: 7646 
+2021-05-16 12:08:51,839 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:51,840 INFO STATS total search time: 1196 (retries = 2) 
+2021-05-16 12:08:51,840 INFO c.k.s.Main Found for Gniezno, [cov19.moderna]: 20 slots, nextDate = 2021-05-28T13:56 
+2021-05-16 12:08:51,840 INFO c.k.s.Main city=Gniezno, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:51,840 INFO c.k.s.Main time since last search = 1197 
+2021-05-16 12:08:51,896 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:51,896 WARN c.k.s.Main retrying 
+2021-05-16 12:08:52,330 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:52,330 WARN c.k.s.Main retrying 
+2021-05-16 12:08:52,932 INFO STATS time per search: 67, size: 11 
+2021-05-16 12:08:52,932 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:52,932 INFO STATS total search time: 1092 (retries = 2) 
+2021-05-16 12:08:52,932 INFO c.k.s.Main Found for Gniezno, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:52,932 INFO c.k.s.Main Processing SearchCity[name=Piła, voivodeship=WIELKOPOLSKIE, days=1, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:08:52,933 INFO c.k.s.Main city=Piła, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:52,933 INFO c.k.s.Main time since last search = 1093 
+2021-05-16 12:08:52,989 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:52,989 WARN c.k.s.Main retrying 
+2021-05-16 12:08:53,595 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:53,596 WARN c.k.s.Main retrying 
+2021-05-16 12:08:54,119 INFO STATS time per search: 148, size: 5582 
+2021-05-16 12:08:54,120 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:54,120 INFO STATS total search time: 1187 (retries = 2) 
+2021-05-16 12:08:54,120 INFO c.k.s.Main Found for Piła, [cov19.astra_zeneca]: 14 slots, nextDate = 2021-05-19T09:46 
+2021-05-16 12:08:54,120 INFO c.k.s.Main city=Piła, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:54,121 INFO c.k.s.Main time since last search = 1188 
+2021-05-16 12:08:54,177 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:54,177 WARN c.k.s.Main retrying 
+2021-05-16 12:08:54,788 INFO STATS time per search: 57, size: 180 
+2021-05-16 12:08:54,788 WARN c.k.s.Main retrying 
+2021-05-16 12:08:55,316 INFO STATS time per search: 89, size: 11 
+2021-05-16 12:08:55,316 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:55,316 INFO STATS total search time: 1195 (retries = 2) 
+2021-05-16 12:08:55,316 INFO c.k.s.Main Found for Piła, [cov19.pfizer]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:55,316 INFO c.k.s.Main city=Piła, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:55,316 INFO c.k.s.Main time since last search = 1195 
+2021-05-16 12:08:55,372 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:55,372 WARN c.k.s.Main retrying 
+2021-05-16 12:08:55,738 INFO STATS time per search: 58, size: 180 
+2021-05-16 12:08:55,738 WARN c.k.s.Main retrying 
+2021-05-16 12:08:56,348 INFO STATS time per search: 68, size: 11 
+2021-05-16 12:08:56,348 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:56,348 INFO STATS total search time: 1032 (retries = 2) 
+2021-05-16 12:08:56,349 INFO c.k.s.Main Found for Piła, [cov19.moderna]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:56,349 INFO c.k.s.Main city=Piła, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:56,349 INFO c.k.s.Main time since last search = 1033 
+2021-05-16 12:08:56,405 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:56,405 WARN c.k.s.Main retrying 
+2021-05-16 12:08:56,782 INFO STATS time per search: 73, size: 180 
+2021-05-16 12:08:56,782 WARN c.k.s.Main retrying 
+2021-05-16 12:08:57,298 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:57,298 WARN c.k.s.Main retrying 
+2021-05-16 12:08:57,727 INFO STATS time per search: 67, size: 11 
+2021-05-16 12:08:57,727 ERROR c.k.s.Main Retries count = 3 
+2021-05-16 12:08:57,727 INFO STATS total search time: 1378 (retries = 3) 
+2021-05-16 12:08:57,727 INFO c.k.s.Main Found for Piła, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:08:57,727 INFO c.k.s.Main Processing SearchCity[name=Kalisz, voivodeship=WIELKOPOLSKIE, days=1, vaccines=[cov19.pfizer, cov19.astra_zeneca, cov19.moderna, cov19.johnson_and_johnson], servicePointId=null] 
+2021-05-16 12:08:57,727 INFO c.k.s.Main city=Kalisz, vaccine=[cov19.astra_zeneca]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:57,727 INFO c.k.s.Main time since last search = 1378 
+2021-05-16 12:08:57,782 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:57,783 WARN c.k.s.Main retrying 
+2021-05-16 12:08:58,362 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:08:58,363 WARN c.k.s.Main retrying 
+2021-05-16 12:08:59,000 INFO STATS time per search: 161, size: 3124 
+2021-05-16 12:08:59,000 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:08:59,000 INFO STATS total search time: 1272 (retries = 2) 
+2021-05-16 12:08:59,000 INFO c.k.s.Main Found for Kalisz, [cov19.astra_zeneca]: 9 slots, nextDate = 2021-05-18T12:46 
+2021-05-16 12:08:59,000 INFO c.k.s.Main city=Kalisz, vaccine=[cov19.pfizer]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:08:59,001 INFO c.k.s.Main time since last search = 1273 
+2021-05-16 12:08:59,054 INFO STATS time per search: 53, size: 180 
+2021-05-16 12:08:59,054 WARN c.k.s.Main retrying 
+2021-05-16 12:08:59,455 INFO STATS time per search: 56, size: 180 
+2021-05-16 12:08:59,455 WARN c.k.s.Main retrying 
+2021-05-16 12:09:00,083 INFO STATS time per search: 121, size: 6470 
+2021-05-16 12:09:00,083 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:09:00,083 INFO STATS total search time: 1082 (retries = 2) 
+2021-05-16 12:09:00,084 INFO c.k.s.Main Found for Kalisz, [cov19.pfizer]: 19 slots, nextDate = 2021-06-11T11:01 
+2021-05-16 12:09:00,084 INFO c.k.s.Main city=Kalisz, vaccine=[cov19.moderna]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:09:00,084 INFO c.k.s.Main time since last search = 1083 
+2021-05-16 12:09:00,138 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:09:00,138 WARN c.k.s.Main retrying 
+2021-05-16 12:09:00,661 INFO STATS time per search: 54, size: 180 
+2021-05-16 12:09:00,662 WARN c.k.s.Main retrying 
+2021-05-16 12:09:01,272 INFO STATS time per search: 65, size: 11 
+2021-05-16 12:09:01,272 ERROR c.k.s.Main Retries count = 2 
+2021-05-16 12:09:01,272 INFO STATS total search time: 1188 (retries = 2) 
+2021-05-16 12:09:01,272 INFO c.k.s.Main Found for Kalisz, [cov19.moderna]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:09:01,272 INFO c.k.s.Main city=Kalisz, vaccine=[cov19.johnson_and_johnson]: try=0, start=2021-05-16T00:00, end=2021-06-13T23:59, pointId=null 
+2021-05-16 12:09:01,273 INFO c.k.s.Main time since last search = 1189 
+2021-05-16 12:09:01,339 INFO STATS time per search: 66, size: 180 
+2021-05-16 12:09:01,339 WARN c.k.s.Main retrying 
+2021-05-16 12:09:01,744 INFO STATS time per search: 58, size: 180 
+2021-05-16 12:09:01,744 WARN c.k.s.Main retrying 
+2021-05-16 12:09:02,185 INFO STATS time per search: 59, size: 180 
+2021-05-16 12:09:02,185 WARN c.k.s.Main retrying 
+2021-05-16 12:09:02,609 INFO STATS time per search: 67, size: 11 
+2021-05-16 12:09:02,609 ERROR c.k.s.Main Retries count = 3 
+2021-05-16 12:09:02,609 INFO STATS total search time: 1336 (retries = 3) 
+2021-05-16 12:09:02,609 INFO c.k.s.Main Found for Kalisz, [cov19.johnson_and_johnson]: 0 slots, nextDate = 2021-06-13T23:59 
+2021-05-16 12:09:02,609 INFO STATS Search time: 69248, time/search: 1259 
+2021-05-16 12:09:02,609 INFO c.k.s.Main Search count = 55, results = 1000, results/count = 18 
+2021-05-16 12:09:05,141 INFO STATS Formatter time: 2532, time/result: 2 
