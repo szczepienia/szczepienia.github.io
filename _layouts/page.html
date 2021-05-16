@@ -9,16 +9,18 @@ layout: default
     var position;
     var table;
     var datatablesConfig = {
-            "paging":   false,
-            "ordering": true,
-            "info":     false,
-            "language": {
-                "url": "/assets/datatables.polish.json"
+            deferRender: true,
+            paging:   false,
+            ordering: true,
+            info:     false,
+            language: {
+                url: "/assets/datatables.polish.json"
             },
             order: [[ 1, "asc" ]],
             responsive: true,
             dom: 'Plfrtip',
             searchPanes: {
+                layout: 'columns-5',
                 hideCount: true,
                 cascadePanes: true,
                 columns: [0,3],
@@ -28,12 +30,75 @@ layout: default
                     }
                 },
                 panes: [
+                    {
+                        header: "Dzień",
+                        options: [
+                            { label: 'poniedziałek', value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "MONDAY"); } },
+                            { label: 'wtorek',       value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "TUESDAY"); } },
+                            { label: 'środa',        value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "WEDNESDAY"); } },
+                            { label: 'czwartek',     value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "THURSDAY"); } },
+                            { label: 'piątek',       value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "FRIDAY"); } },
+                            { label: 'sobota',       value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "SATURDAY"); } },
+                            { label: 'niedziela',    value: function(rowData, rowIdx) { return dayOfWeek(this, rowIdx, "SUNDAY"); } }
+                    ],
+                        dtOpts: {
+                            searching: false,
+                            columnDefs: [ {
+                                targets: [0],
+                                render: function (data, type) {
+                                    if (type === 'sort') {
+                                        const days = { 
+                                            "poniedziałek": 1,
+                                            "wtorek": 2,
+                                            "środa": 3,
+                                            "czwartek": 4,
+                                            "piątek": 5,
+                                            "sobota": 6,
+                                            "niedziela": 7,
+                                        };
+                                        return days[data];
+                                    }
+                                    return data;
+                                }
+                            } ]
+                        }
+                    },
+                    {
+                        header: "# terminów",
+                        options: [
+                            { label: 'wszystkie', value: function(rowData, rowIdx) { return true; } },
+                            { label: '> 4', value: function(rowData, rowIdx) { return this.row(rowIdx).node().dataset.slots >4;; } }
+                        ],
+                        preSelect: ['> 4'],
+                        dtOpts: {
+                            searching: false,
+                            select:{
+                                style: 'single',
+                            },
+                            order: [[1, 'asc']]
+                        }
+                    }
                 ]
             },
             columnDefs: [
                 {
                     searchPanes: {
-                        show: true
+                        show: true,
+                        dtOpts: {
+                            columnDefs: [ {
+                                targets: [0],
+                                render: function (data, type) {
+                                    if (type === 'display') {
+                                        if (data.indexOf('>') > -1) {
+                                            return data.substring(data.indexOf('>') + 1).trim();
+                                        }
+                                        return data.trim();
+                                    }
+                                    return data;
+                                }
+                            } ]
+                        }
+
                     },
                     targets: [0]
                 },
@@ -81,8 +146,14 @@ layout: default
         return distanceInKm(pointCoord.lat, pointCoord.lon, position.latitude, position.longitude) <= dist;
     }
 
+    function dayOfWeek(other, rowIdx, wantedDay) {
+        const dow = other.row(rowIdx).node().dataset.dow;
+        return wantedDay == dow;
+    }
+
+    const distancePaneName = 'Odległość do';
     const distancePane = {
-                    header: 'Odległość do ...',
+                    header: distancePaneName,
                     options: [
                         {
                             label: ' 10 km',
@@ -166,8 +237,29 @@ layout: default
     }
 
     function showTableWithLocation() {
-        datatablesConfig.searchPanes.panes = [distancePane];
+        const distancePanceExists = datatablesConfig.searchPanes.panes.find(f => f.header == distancePaneName);
+        if (!distancePanceExists) {
+            datatablesConfig.searchPanes.panes.push(distancePane);
+        }
         table.destroy();
+        $('#szczepienia tr').each(function() {
+            if (!position) {
+                return;
+            }
+            const pointCoord = $(this).data();
+            if (!pointCoord.lat) {
+                return;
+            }
+            const distance = Math.round(distanceInKm(pointCoord.lat, pointCoord.lon, position.latitude, position.longitude));
+            $(this).data('distance', distance);
+            const td = $(this).find('td:first-child');
+            const prevHtml = td.html();
+            td.html(`(${distance} km)<br/>${prevHtml}`);
+            td.attr('data-order', distance);
+            td.attr('data-filter', prevHtml);
+            datatablesConfig.order = [[ 0, "asc" ]];
+        });
+
         initTable();
     }
 
@@ -239,9 +331,7 @@ layout: default
                     latitude: pos[1]
                 }
                 $("#cities").val(ui.item.label);
-                datatablesConfig.searchPanes.panes = [distancePane];
-                table.destroy();
-                initTable();
+                showTableWithLocation();
             }
         });
         //$('.locate-me').hide();
