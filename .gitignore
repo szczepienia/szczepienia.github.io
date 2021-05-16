@@ -6,3 +6,6 @@ logs/
 *.sh
 *.swp
 cities/*
+output
+test
+*.log
