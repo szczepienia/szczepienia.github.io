@@ -5,6 +5,13 @@ layout: default
 <script type="text/javascript">
     const url = new URL(window.location.href);
     const voi = document.title.substring(0, document.title.indexOf(' |')); // need to fix that
+
+    let params = new URLSearchParams(window.location.hash.substr(1));
+
+    function paramToHash() {
+        window.location.hash = params.toString();
+    };
+
     var locations = {};
     var position;
     var table;
@@ -190,6 +197,9 @@ layout: default
     };
 
     function initTable() {
+        if ($.fn.DataTable.isDataTable('#szczepienia')) {
+            return;
+        }
         const city = url.searchParams.get('city');
         const vaccine = url.searchParams.get('vaccine');
         const search = url.searchParams.get('q');
@@ -241,7 +251,9 @@ layout: default
         if (!distancePanceExists) {
             datatablesConfig.searchPanes.panes.push(distancePane);
         }
-        table.destroy();
+        if (table) {
+            table.destroy();
+        }
         $('#szczepienia tr').each(function() {
             if (!position) {
                 return;
@@ -283,57 +295,6 @@ layout: default
     }
 
     function ready() {
-        $("#cities").autocomplete({
-            source: function(request, response) {
-                $.ajax({
-                    dataType: "json",
-                    type : 'Get',
-                    //url: 'https://t1.kirela.com/cities.php',
-                    url: url.origin + '/cities/' + voi + '.json',
-                    //data: {
-                    //    voi: voi,
-                    //    term: request.term
-                    //},
-                    success: function(data) {
-                        //$('input.suggest-user').removeClass('ui-autocomplete-loading');
-                        // hide loading image
-
-                        response(data);
-                    },
-                    error: function(data) {
-                        //$('input.suggest-user').removeClass('ui-autocomplete-loading');
-                    }
-                });
-            },
-            minLength: 3,
-            //select: function( event, ui ) {
-            //    console.log( ui.item ?
-            //        "Selected: " + ui.item.label :
-            //    "Nothing selected, input was " + this.value);
-            //},
-            open: function() {
-                $( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
-            },
-            close: function() {
-                $( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
-            },
-            focus: function (event, ui) {
-                event.preventDefault();
-                $("#cities").val(ui.item.label);
-            },
-            select: function (event, ui) {
-                event.preventDefault();
-                //$("#projeKatmanRaporCbx").val(ui.item.value);
-                const pos = ui.item.value.split(',')
-                console.log("Postion found: ", pos);
-                position = {
-                    longitude: pos[0],
-                    latitude: pos[1]
-                }
-                $("#cities").val(ui.item.label);
-                showTableWithLocation();
-            }
-        });
         //$('.locate-me').hide();
         $('#location-check').hide();
         $('#location-change').show();
@@ -356,6 +317,8 @@ layout: default
                 latitude: lat,
                 longitude: lon
             }
+            params.set('gps', $('#location').val());
+            paramToHash();
             updateLocationCheck();
             showTableWithLocation();
         });
@@ -363,6 +326,11 @@ layout: default
         $('.locate-me').click(function() {
             navigator.geolocation.getCurrentPosition(located, errorLocating, {enableHighAccuracy: true});
         });
+        if (params.has('gps')) {
+            let splitted = params.get('gps').split(',');
+            let pos = {coords: {latitude: splitted[0], longitude: splitted[1] }};
+            located(pos);
+        }
 
         $('#map').hide();
         $('.extended-times').hide();
