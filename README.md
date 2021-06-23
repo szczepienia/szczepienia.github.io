@@ -8,3 +8,5 @@ bundle exec jekyll serve
 
 Przeglądarką wchodzimy na http://localhost:4000
 
+
+Backend: https://github.com/krzyk/szczepimy
